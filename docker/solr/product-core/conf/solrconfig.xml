@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <schemaFactory class="ClassicIndexSchemaFactory"/>
+
+    <luceneMatchVersion>9.10.0</luceneMatchVersion>
+
+    <requestHandler name="/select" class="solr.SearchHandler">
+        <lst name="defaults">
+            <str name="defType">edismax</str>
+            <str name="qf">name^3 description^1 text_all^2</str>
+            <str name="rows">10</str>
+        </lst>
+    </requestHandler>
+
+</config>

@@ -42,11 +42,15 @@ services:
     container_name: ecommerce-solr
     ports:
       - "8983:8983"
+    environment:
+      SOLR_MODE: standalone
     volumes:
       - solr_data:/var/solr
+      - ./solr/product-core:/var/solr/data/product
     command:
-      - solr-precreate
-      - product
+      - solr
+      - start
+      - -f
 
 volumes:
   mysql_data:
