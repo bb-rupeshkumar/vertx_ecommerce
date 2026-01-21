@@ -24,7 +24,7 @@
     <field name="price" type="pfloat" indexed="true" stored="true"/>
     <field name="created_at" type="pdate" indexed="true" stored="true"/>
 
-    <field name="text_all" type="text_en" indexed="true" stored="false"/>
+    <field name="text_all" type="text_en" indexed="true" stored="false" multiValued="true"/>
 
     <copyField source="name" dest="text_all"/>
     <copyField source="description" dest="text_all"/>
