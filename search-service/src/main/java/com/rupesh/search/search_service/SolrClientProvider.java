@@ -1,9 +1,11 @@
 package com.rupesh.search.search_service;
 
 import org.apache.solr.client.solrj.SolrClient;
-import org.apache.solr.client.solrj.impl.HttpSolrClient;
+import org.apache.solr.client.solrj.impl.Http2SolrClient;
 
-public class SolrClientProvider {
+import java.util.concurrent.TimeUnit;
+
+public final class SolrClientProvider {
 
   private static final String SOLR_URL =
     System.getenv().getOrDefault(
@@ -12,10 +14,18 @@ public class SolrClientProvider {
     );
 
   private static final SolrClient CLIENT =
-    new HttpSolrClient.Builder(SOLR_URL)
-      .withConnectionTimeout(5000) // 5 seconds to connect
-      .withSocketTimeout(10000)    // 10 seconds to wait for data
+    new Http2SolrClient.Builder(SOLR_URL)
+      .withConnectionTimeout(5000, TimeUnit.SECONDS)
+      .withIdleTimeout(10000, TimeUnit.SECONDS)
       .build();
+
+  static {
+    Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+      try {
+        CLIENT.close();
+      } catch (Exception ignored) {}
+    }));
+  }
 
   private SolrClientProvider() {}
 
