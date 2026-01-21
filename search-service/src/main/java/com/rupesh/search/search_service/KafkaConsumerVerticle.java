@@ -2,10 +2,7 @@ package com.rupesh.search.search_service;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
-import io.vertx.core.json.JsonObject;
 import io.vertx.kafka.client.consumer.KafkaConsumer;
-import org.apache.solr.client.solrj.SolrClient;
-import org.apache.solr.common.SolrInputDocument;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,75 +10,51 @@ import java.util.Map;
 public class KafkaConsumerVerticle extends AbstractVerticle {
 
   private KafkaConsumer<String, String> consumer;
-  private SolrClient solrClient;
+  private static final String TOPIC = "product-search-events";
 
   @Override
   public void start(Promise<Void> startPromise) {
-    System.out.println("KafkaConsumerVerticle start() called");
-    // 1. Initialize Solr Client
-    this.solrClient = SolrClientProvider.getClient();
 
-    // 2. Kafka Configuration
+    System.out.println("🚀 KafkaConsumerVerticle started");
+
     Map<String, String> config = new HashMap<>();
-    config.put(
-      "bootstrap.servers",
-      System.getenv().getOrDefault(
-        "KAFKA_BOOTSTRAP_SERVERS",
-        "ecommerce-kafka:9092"
-      )
-    );
+    config.put("bootstrap.servers", "ecommerce-kafka:29092"); // IMPORTANT
     config.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
     config.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
-    config.put("group.id", "search-indexer-v2");
+    config.put("group.id", "search-indexer-v3");
     config.put("auto.offset.reset", "earliest");
     config.put("enable.auto.commit", "true");
 
-    // 3. Create Consumer
-    this.consumer = KafkaConsumer.create(vertx, config);
+    consumer = KafkaConsumer.create(vertx, config);
 
-    // 4. Set up Handler with executeBlocking
+    consumer
+      .exceptionHandler(err ->
+        System.err.println("❌ Kafka error: " + err.getMessage())
+      );
+
+    consumer
+      .partitionsAssignedHandler(p ->
+        System.out.println("📌 Partitions assigned: " + p)
+      );
+
     consumer.handler(record -> {
-      System.out.println("🔥 Consumed Kafka event: " + record.value());
-      JsonObject event = new JsonObject(record.value());
-      indexToSolr(event);
+      System.out.println(
+        "🔥 CONSUMED key=" + record.key() +
+          " value=" + record.value() +
+          " partition=" + record.partition() +
+          " offset=" + record.offset()
+      );
     });
 
-    // 5. Subscribe and signal start
-    consumer.subscribe("product-search-events")
-      .onComplete(ar -> {
-        if (ar.succeeded()) {
-          System.out.println("Kafka Consumer started and subscribed to product-search-events");
-          startPromise.complete();
-        } else {
-          startPromise.fail(ar.cause());
-        }
+    consumer.subscribe(TOPIC)
+      .onSuccess(v -> {
+        System.out.println("✅ Subscribed to " + TOPIC);
+        startPromise.complete();
+      })
+      .onFailure(err -> {
+        System.err.println("❌ Subscribe failed: " + err.getMessage());
+        startPromise.fail(err);
       });
-  }
-
-  private void indexToSolr(JsonObject event) {
-    JsonObject payload = event.getJsonObject("payload");
-
-    // Move the blocking Solr operation to a Worker Thread
-    vertx.executeBlocking(promise -> {
-      try {
-        SolrInputDocument doc = new SolrInputDocument();
-        doc.addField("id", payload.getString("id"));
-        doc.addField("name", payload.getString("name"));
-        doc.addField("description", payload.getString("description"));
-        doc.addField("category", payload.getString("category"));
-        doc.addField("price", payload.getDouble("price"));
-
-        solrClient.add(doc);
-        solrClient.commit();
-        promise.complete();
-      } catch (Exception e) {
-        promise.fail(e);
-      }
-    }, res -> {
-      if (res.failed()) {
-        System.err.println("Failed to index document to Solr: " + res.cause().getMessage());
-      }
-    });
   }
 
   @Override
