@@ -62,7 +62,7 @@ services:
       - kafka
       - solr
     environment:
-      KAFKA_BOOTSTRAP_SERVERS: ecommerce-kafka:9092
+      KAFKA_BOOTSTRAP_SERVERS: ecommerce-kafka:29092
       SOLR_URL: http://ecommerce-solr:8983/solr/product
     ports:
       - "8888:8888"

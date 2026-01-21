@@ -27,7 +27,7 @@ public class KafkaConsumerVerticle extends AbstractVerticle {
     config.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
     config.put("group.id", "search-indexer-v3");
     config.put("auto.offset.reset", "earliest");
-    config.put("enable.auto.commit", "true");
+    config.put("enable.auto.commit", "false");
 
     consumer = KafkaConsumer.create(vertx, config);
 
