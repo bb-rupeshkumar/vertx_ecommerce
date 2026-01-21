@@ -52,6 +52,7 @@ public class KafkaConsumerVerticle extends AbstractVerticle {
         document.addField("description", json.getString("description"));
         document.addField("price", json.getDouble("price"));
         document.addField("category", json.getString("category"));
+        document.addField("brand", json.getString("brand"));
         document.addField("created_at", json.getString("created_at"));
 
         solrClient.add(document);

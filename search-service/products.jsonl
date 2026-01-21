@@ -1,0 +1,1000 @@
+{"id":"p0001","name":"iPhone 15","description":"Apple smartphone","category":"mobile","brand":"apple","price":79999,"created_at":"2026-01-20T10:00:00Z"}
+{"id":"p0002","name":"iPhone 15 Pro","description":"Premium Apple smartphone","category":"mobile","brand":"apple","price":129999,"created_at":"2026-01-19T10:00:00Z"}
+{"id":"p0003","name":"Samsung Galaxy S24","description":"Android flagship phone","category":"mobile","brand":"samsung","price":89999,"created_at":"2026-01-18T10:00:00Z"}
+{"id":"p0004","name":"OnePlus 12","description":"Fast Android phone","category":"mobile","brand":"oneplus","price":64999,"created_at":"2026-01-17T10:00:00Z"}
+{"id":"p0005","name":"MacBook Air M3","description":"Thin and light laptop with M3 chip","category":"laptop","brand":"apple","price":114900,"created_at":"2026-01-16T10:00:00Z"}
+{"id":"p0006","name":"Sony WH-1000XM5","description":"Industry leading noise canceling headphones","category":"audio","brand":"sony","price":29999,"created_at":"2026-01-15T10:00:00Z"}
+{"id":"p0007","name":"Dell XPS 13","description":"Premium bezel-less Windows laptop","category":"laptop","brand":"dell","price":135000,"created_at":"2026-01-14T10:00:00Z"}
+{"id":"p0008","name":"Apple Watch Series 9","description":"Advanced health tracking smartwatch","category":"wearable","brand":"apple","price":41900,"created_at":"2026-01-13T10:00:00Z"}
+{"id":"p0009","name":"Google Pixel 8 Pro","description":"The best Google camera phone","category":"mobile","brand":"google","price":106999,"created_at":"2026-01-12T10:00:00Z"}
+{"id":"p0010","name":"Logitech MX Master 3S","description":"Ergonomic productivity mouse","category":"accessories","brand":"logitech","price":10995,"created_at":"2026-01-11T10:00:00Z"}
+{"id":"p0011","name":"Samsung Odyssey G7","description":"32-inch curved gaming monitor","category":"monitor","brand":"samsung","price":55000,"created_at":"2026-01-10T10:00:00Z"}
+{"id":"p0012","name":"PlayStation 5 Slim","description":"Next-gen gaming console","category":"gaming","brand":"sony","price":44990,"created_at":"2026-01-09T10:00:00Z"}
+{"id":"p0013","name":"Bose QuietComfort Ultra","description":"Premium immersive spatial audio earbuds","category":"audio","brand":"bose","price":35900,"created_at":"2026-01-08T10:00:00Z"}
+{"id":"p0014","name":"ASUS ROG Zephyrus G14","description":"Powerful compact gaming laptop","category":"laptop","brand":"asus","price":149990,"created_at":"2026-01-07T10:00:00Z"}
+{"id":"p0015","name":"iPad Pro 12.9","description":"Professional tablet with Liquid Retina XDR","category":"tablet","brand":"apple","price":112900,"created_at":"2026-01-06T10:00:00Z"}
+{"id":"p0016","name":"Garmin Fenix 7 Pro","description":"Multisport GPS watch for athletes","category":"wearable","brand":"garmin","price":74990,"created_at":"2026-01-05T10:00:00Z"}
+{"id":"p0017","name":"Keychron K2V2","description":"Wireless mechanical keyboard","category":"accessories","brand":"keychron","price":8500,"created_at":"2026-01-04T10:00:00Z"}
+{"id":"p0018","name":"Nintendo Switch OLED","description":"Handheld console with vibrant display","category":"gaming","brand":"nintendo","price":32000,"created_at":"2026-01-03T10:00:00Z"}
+{"id":"p0019","name":"Kindle Paperwhite","description":"Waterproof e-reader with adjustable warm light","category":"ereader","brand":"amazon","price":13999,"created_at":"2026-01-02T10:00:00Z"}
+{"id":"p0020","name":"GoPro Hero 12","description":"Rugged action camera with HDR","category":"camera","brand":"gopro","price":45000,"created_at":"2026-01-01T10:00:00Z"}
+{"id":"p0021","name":"Microsoft Surface Pro 9","description":"Versatile 2-in-1 laptop tablet","category":"laptop","brand":"microsoft","price":94999,"created_at":"2025-12-31T10:00:00Z"}
+{"id":"p0022","name":"Razer DeathAdder V3","description":"Ultra-lightweight gaming mouse","category":"accessories","brand":"razer","price":12999,"created_at":"2025-12-30T10:00:00Z"}
+{"id":"p0023","name":"Samsung T7 Shield 2TB","description":"Rugged external SSD","category":"storage","brand":"samsung","price":18500,"created_at":"2025-12-29T10:00:00Z"}
+{"id":"p0024","name":"Nothing Phone (2)","description":"Unique glyph interface smartphone","category":"mobile","brand":"nothing","price":44999,"created_at":"2025-12-28T10:00:00Z"}
+{"id":"p0025","name":"SteelSeries Arctis Nova Pro","description":"High-fidelity gaming headset","category":"audio","brand":"steelseries","price":34999,"created_at":"2025-12-27T10:00:00Z"}
+{"id":"p0026","name":"LG C3 OLED TV","description":"4K Smart TV with infinite contrast","category":"tv","brand":"lg","price":125000,"created_at":"2025-12-26T10:00:00Z"}
+{"id":"p0027","name":"Fitbit Charge 6","description":"Health and fitness tracker with Google apps","category":"wearable","brand":"fitbit","price":14999,"created_at":"2025-12-25T10:00:00Z"}
+{"id":"p0028","name":"Canon EOS R6 Mark II","description":"Full-frame mirrorless camera","category":"camera","brand":"canon","price":225000,"created_at":"2025-12-24T10:00:00Z"}
+{"id":"p0029","name":"Anker 737 Power Bank","description":"140W fast charging portable battery","category":"accessories","brand":"anker","price":12000,"created_at":"2025-12-23T10:00:00Z"}
+{"id":"p0030","name":"Alienware m18 R2","description":"Extreme performance gaming laptop","category":"laptop","brand":"alienware","price":310000,"created_at":"2025-12-22T10:00:00Z"}
+{"id":"p0031","name":"Organic Bananas","description":"Fresh organic bananas, 1 dozen","category":"fruits","brand":"fresho","price":60,"created_at":"2026-01-22T08:00:00Z"}
+{"id":"p0032","name":"Amul Butter","description":"Pasteurized salted butter 500g","category":"dairy","brand":"amul","price":275,"created_at":"2026-01-22T08:05:00Z"}
+{"id":"p0033","name":"Aashirvaad Atta","description":"Whole wheat flour 5kg pack","category":"staples","brand":"itc","price":295,"created_at":"2026-01-22T08:10:00Z"}
+{"id":"p0034","name":"Coca-Cola 1.25L","description":"Soft drink PET bottle","category":"beverages","brand":"coca-cola","price":75,"created_at":"2026-01-22T08:15:00Z"}
+{"id":"p0035","name":"Maggi Masala Noodles","description":"Instant noodles 12-pack","category":"snacks","brand":"nestle","price":168,"created_at":"2026-01-22T08:20:00Z"}
+{"id":"p0036","name":"Surf Excel Matic","description":"Top load detergent powder 2kg","category":"household","brand":"unilever","price":450,"created_at":"2026-01-22T08:25:00Z"}
+{"id":"p0037","name":"Farm Fresh Eggs","description":"Pack of 12 white eggs","category":"dairy","brand":"egg-first","price":96,"created_at":"2026-01-22T08:30:00Z"}
+{"id":"p0038","name":"Harpic Blue","description":"Toilet cleaner liquid 1L","category":"household","brand":"reckitt","price":195,"created_at":"2026-01-22T08:35:00Z"}
+{"id":"p0039","name":"Tropicana Orange","description":"100% juice 1L tetrapack","category":"beverages","brand":"pepsico","price":120,"created_at":"2026-01-22T08:40:00Z"}
+{"id":"p0040","name":"Lay's Magic Masala","description":"Potato chips party pack","category":"snacks","brand":"pepsico","price":50,"created_at":"2026-01-22T08:45:00Z"}
+{"id":"p0041","name":"Dettol Soap","description":"Antiseptic bath soap pack of 4","category":"personal-care","brand":"reckitt","price":180,"created_at":"2026-01-22T08:50:00Z"}
+{"id":"p0042","name":"Basmati Rice","description":"Long grain premium rice 5kg","category":"staples","brand":"daawat","price":850,"created_at":"2026-01-22T08:55:00Z"}
+{"id":"p0043","name":"Fortune Sunflower Oil","description":"Refined cooking oil 1L pouch","category":"staples","brand":"adani","price":145,"created_at":"2026-01-22T09:00:00Z"}
+{"id":"p0044","name":"Colgate MaxFresh","description":"Peppermint ice gel toothpaste","category":"personal-care","brand":"colgate","price":110,"created_at":"2026-01-22T09:05:00Z"}
+{"id":"p0045","name":"Britannia Marie Gold","description":"Tea time biscuits combo","category":"snacks","brand":"britannia","price":40,"created_at":"2026-01-22T09:10:00Z"}
+{"id":"p0046","name":"Nandini GoodLife Milk","description":"UHT Toned milk 1L","category":"dairy","brand":"kmf","price":62,"created_at":"2026-01-22T09:15:00Z"}
+{"id":"p0047","name":"Broccoli","description":"Fresh exotic broccoli 250g","category":"vegetables","brand":"fresho","price":45,"created_at":"2026-01-22T09:20:00Z"}
+{"id":"p0048","name":"Red Bull Energy","description":"250ml silver blue can","category":"beverages","brand":"red bull","price":125,"created_at":"2026-01-22T09:25:00Z"}
+{"id":"p0049","name":"Pampers Diapers","description":"Baby dry pants large 64s","category":"baby-care","brand":"p&g","price":1099,"created_at":"2026-01-22T09:30:00Z"}
+{"id":"p0050","name":"Vim Dishwash Gel","description":"Lemon liquid refill 750ml","category":"household","brand":"unilever","price":155,"created_at":"2026-01-22T09:35:00Z"}
+{"id":"p0051","name":"Hershey's Syrup","description":"Chocolate flavor syrup 623g","category":"snacks","brand":"hersheys","price":230,"created_at":"2026-01-22T09:40:00Z"}
+{"id":"p0052","name":"Tata Salt","description":"Vacuum evaporated iodized salt 1kg","category":"staples","brand":"tata","price":28,"created_at":"2026-01-22T09:45:00Z"}
+{"id":"p0053","name":"Head & Shoulders","description":"Anti-dandruff shampoo 650ml","category":"personal-care","brand":"p&g","price":550,"created_at":"2026-01-22T09:50:00Z"}
+{"id":"p0054","name":"Nescafe Classic","description":"Instant coffee glass jar 100g","category":"beverages","brand":"nestle","price":340,"created_at":"2026-01-22T09:55:00Z"}
+{"id":"p0055","name":"Alphonso Mango","description":"Grade A ratnagiri mangoes 1kg","category":"fruits","brand":"fresho","price":450,"created_at":"2026-01-22T10:00:00Z"}
+{"id":"p0056","name":"Dove Body Wash","description":"Deep moisture nourishing shower gel","category":"personal-care","brand":"unilever","price":399,"created_at":"2026-01-22T10:05:00Z"}
+{"id":"p0057","name":"Whisper Choice","description":"Sanitary pads wings 20 count","category":"personal-care","brand":"p&g","price":140,"created_at":"2026-01-22T10:10:00Z"}
+{"id":"p0058","name":"Kellogg's Corn Flakes","description":"Breakfast cereal original 875g","category":"snacks","brand":"kelloggs","price":360,"created_at":"2026-01-22T10:15:00Z"}
+{"id":"p0059","name":"Catch Turmeric Powder","description":"Spices pure haldi 200g","category":"staples","brand":"catch","price":55,"created_at":"2026-01-22T10:20:00Z"}
+{"id":"p0060","name":"Lizol Disinfectant","description":"Floor cleaner floral 2L","category":"household","brand":"reckitt","price":385,"created_at":"2026-01-22T10:25:00Z"}
+{"id":"p0061","name":"Pedigree Dog Food","description":"Dry food chicken & vegetables 3kg","category":"pet-care","brand":"mars","price":750,"created_at":"2026-01-22T10:30:00Z"}
+{"id":"p0062","name":"Parachute Coconut Oil","description":"100% pure coconut hair oil 600ml","category":"personal-care","brand":"marico","price":260,"created_at":"2026-01-22T10:35:00Z"}
+{"id":"p0063","name":"Gillette Mach 3","description":"Men's razor with 2 cartridges","category":"personal-care","brand":"p&g","price":450,"created_at":"2026-01-22T10:40:00Z"}
+{"id":"p0064","name":"MamyPoko Wipes","description":"Extra clean baby wipes 72s","category":"baby-care","brand":"unicharm","price":120,"created_at":"2026-01-22T10:45:00Z"}
+{"id":"p0065","name":"Himalaya Face Wash","description":"Purifying neem face wash 200ml","category":"personal-care","brand":"himalaya","price":225,"created_at":"2026-01-22T10:50:00Z"}
+{"id":"p0066","name":"Cadbury Dairy Milk","description":"Silk chocolate bar 150g","category":"snacks","brand":"mondelez","price":175,"created_at":"2026-01-22T10:55:00Z"}
+{"id":"p0067","name":"Saffola Gold","description":"Blended edible oil 5L jar","category":"staples","brand":"marico","price":950,"created_at":"2026-01-22T11:00:00Z"}
+{"id":"p0068","name":"Real Fruit Power","description":"Mixed fruit juice 1L","category":"beverages","brand":"dabur","price":110,"created_at":"2026-01-22T11:05:00Z"}
+{"id":"p0069","name":"MTR Rava Idli Mix","description":"Ready to cook breakfast mix 500g","category":"snacks","brand":"mtr","price":135,"created_at":"2026-01-22T11:10:00Z"}
+{"id":"p0070","name":"Ariel Matic Liquid","description":"Front load liquid detergent 2L","category":"household","brand":"p&g","price":480,"created_at":"2026-01-22T11:15:00Z"}
+{"id":"p0071","name":"Oreo Biscuits","description":"Vanilla cream sandwich biscuits","category":"snacks","brand":"mondelez","price":30,"created_at":"2026-01-22T11:20:00Z"}
+{"id":"p0072","name":"Gowardhan Ghee","description":"Pure cow ghee 1L carton","category":"dairy","brand":"parag-milk","price":650,"created_at":"2026-01-22T11:25:00Z"}
+{"id":"p0073","name":"Priya Ginger Garlic","description":"Cooking paste 200g pouch","category":"staples","brand":"priya","price":50,"created_at":"2026-01-22T11:30:00Z"}
+{"id":"p0074","name":"Patanjali Honey","description":"Pure multi-floral honey 500g","category":"staples","brand":"patanjali","price":210,"created_at":"2026-01-22T11:35:00Z"}
+{"id":"p0075","name":"Lipton Green Tea","description":"Honey lemon tea bags 100s","category":"beverages","brand":"unilever","price":540,"created_at":"2026-01-22T11:40:00Z"}
+{"id":"p0076","name":"Mother Dairy Curd","description":"Fresh plain dahi 400g","category":"dairy","brand":"mother-dairy","price":40,"created_at":"2026-01-22T11:45:00Z"}
+{"id":"p0077","name":"Onion","description":"Premium red onions 1kg","category":"vegetables","brand":"fresho","price":35,"created_at":"2026-01-22T11:50:00Z"}
+{"id":"p0078","name":"Potato","description":"New crop potatoes 1kg","category":"vegetables","brand":"fresho","price":30,"created_at":"2026-01-22T11:55:00Z"}
+{"id":"p0079","name":"Tomato Hybrid","description":"Firm red hybrid tomatoes 500g","category":"vegetables","brand":"fresho","price":25,"created_at":"2026-01-22T12:00:00Z"}
+{"id":"p0080","name":"Garlic","description":"Ooty garlic 250g","category":"vegetables","brand":"fresho","price":80,"created_at":"2026-01-22T12:05:00Z"}
+{"id":"p0081","name":"Ginger","description":"Fresh organic ginger 250g","category":"vegetables","brand":"fresho","price":40,"created_at":"2026-01-22T12:10:00Z"}
+{"id":"p0082","name":"Green Chillies","description":"Spicy green chillies 100g","category":"vegetables","brand":"fresho","price":15,"created_at":"2026-01-22T12:15:00Z"}
+{"id":"p0083","name":"Coriander Leaves","description":"Fresh bunch of coriander","category":"vegetables","brand":"fresho","price":10,"created_at":"2026-01-22T12:20:00Z"}
+{"id":"p0084","name":"Lemon","description":"Yellow juicy lemons 4 units","category":"vegetables","brand":"fresho","price":20,"created_at":"2026-01-22T12:25:00Z"}
+{"id":"p0085","name":"Cucumber","description":"Green salad cucumber 500g","category":"vegetables","brand":"fresho","price":25,"created_at":"2026-01-22T12:30:00Z"}
+{"id":"p0086","name":"Carrot Orange","description":"Fresh carrots 500g","category":"vegetables","brand":"fresho","price":35,"created_at":"2026-01-22T12:35:00Z"}
+{"id":"p0087","name":"Capsicum Green","description":"Fresh green capsicum 250g","category":"vegetables","brand":"fresho","price":30,"created_at":"2026-01-22T12:40:00Z"}
+{"id":"p0088","name":"Cauliflower","description":"Medium cauliflower 1 unit","category":"vegetables","brand":"fresho","price":40,"created_at":"2026-01-22T12:45:00Z"}
+{"id":"p0089","name":"Ladies Finger","description":"Fresh okra 500g","category":"vegetables","brand":"fresho","price":35,"created_at":"2026-01-22T12:50:00Z"}
+{"id":"p0090","name":"Spinach","description":"Fresh palak bunch","category":"vegetables","brand":"fresho","price":18,"created_at":"2026-01-22T12:55:00Z"}
+{"id":"p0091","name":"Apples Royal Gala","description":"Sweet imported apples 4 units","category":"fruits","brand":"fresho","price":180,"created_at":"2026-01-22T13:00:00Z"}
+{"id":"p0092","name":"Pomegranate","description":"Anar premium quality 2 units","category":"fruits","brand":"fresho","price":160,"created_at":"2026-01-22T13:05:00Z"}
+{"id":"p0093","name":"Papaya","description":"Semi-ripe papaya 1 unit","category":"fruits","brand":"fresho","price":70,"created_at":"2026-01-22T13:10:00Z"}
+{"id":"p0094","name":"Watermelon","description":"Kiran watermelon 2-3kg","category":"fruits","brand":"fresho","price":90,"created_at":"2026-01-22T13:15:00Z"}
+{"id":"p0095","name":"Grapes Seedless","description":"Green seedless grapes 500g","category":"fruits","brand":"fresho","price":110,"created_at":"2026-01-22T13:20:00Z"}
+{"id":"p0096","name":"Kiwi Imported","description":"Zespri green kiwi pack of 3","category":"fruits","brand":"fresho","price":135,"created_at":"2026-01-22T13:25:00Z"}
+{"id":"p0097","name":"Orange Nagpur","description":"Local Nagpur oranges 1kg","category":"fruits","brand":"fresho","price":120,"created_at":"2026-01-22T13:30:00Z"}
+{"id":"p0098","name":"Paneer Fresh","description":"Malai paneer cubes 200g","category":"dairy","brand":"amul","price":95,"created_at":"2026-01-22T13:35:00Z"}
+{"id":"p0099","name":"Yogurt Greek","description":"Epigamia blueberry yogurt 90g","category":"dairy","brand":"epigamia","price":60,"created_at":"2026-01-22T13:40:00Z"}
+{"id":"p0100","name":"Cheddar Cheese","description":"Processed cheese slices 10s","category":"dairy","brand":"britannia","price":155,"created_at":"2026-01-22T13:45:00Z"}
+{"id":"p0101","name":"Moong Dal","description":"Split yellow gram 1kg","category":"staples","brand":"tata sampann","price":175,"created_at":"2026-01-22T14:00:00Z"}
+{"id":"p0102","name":"Tur Dal","description":"Unpolished arhar dal 1kg","category":"staples","brand":"tata sampann","price":210,"created_at":"2026-01-22T14:05:00Z"}
+{"id":"p0103","name":"Chana Dal","description":"Bengal gram 1kg pack","category":"staples","brand":"fresho","price":115,"created_at":"2026-01-22T14:10:00Z"}
+{"id":"p0104","name":"Kabuli Chana","description":"Large white chickpeas 500g","category":"staples","brand":"tata sampann","price":95,"created_at":"2026-01-22T14:15:00Z"}
+{"id":"p0105","name":"Rajma Chitra","description":"Kidney beans premium 500g","category":"staples","brand":"fresho","price":105,"created_at":"2026-01-22T14:20:00Z"}
+{"id":"p0106","name":"Urad Dal","description":"Split black gram 1kg","category":"staples","brand":"tata sampann","price":165,"created_at":"2026-01-22T14:25:00Z"}
+{"id":"p0107","name":"Poha Thick","description":"Flattened rice 500g","category":"staples","brand":"fresho","price":45,"created_at":"2026-01-22T14:30:00Z"}
+{"id":"p0108","name":"Sooji","description":"Rava / Semolina 500g","category":"staples","brand":"fortune","price":38,"created_at":"2026-01-22T14:35:00Z"}
+{"id":"p0109","name":"Sugar","description":"Refined white sugar 1kg","category":"staples","brand":"madhur","price":52,"created_at":"2026-01-22T14:40:00Z"}
+{"id":"p0110","name":"Jaggery Powder","description":"Natural gur powder 500g","category":"staples","brand":"24-mantra","price":85,"created_at":"2026-01-22T14:45:00Z"}
+{"id":"p0111","name":"Brown Rice","description":"Whole grain basmati brown 1kg","category":"staples","brand":"india-gate","price":195,"created_at":"2026-01-22T14:50:00Z"}
+{"id":"p0112","name":"Quinoa","description":"Organic white quinoa 500g","category":"staples","brand":"true-elements","price":299,"created_at":"2026-01-22T14:55:00Z"}
+{"id":"p0113","name":"Cold Pressed Mustard Oil","description":"Kachi ghani mustard oil 1L","category":"staples","brand":"fortune","price":185,"created_at":"2026-01-22T15:00:00Z"}
+{"id":"p0114","name":"Olive Oil","description":"Extra virgin olive oil 500ml","category":"staples","brand":"borges","price":750,"created_at":"2026-01-22T15:05:00Z"}
+{"id":"p0115","name":"Soybean Oil","description":"Refined soy oil pouch 1L","category":"staples","brand":"fortune","price":135,"created_at":"2026-01-22T15:10:00Z"}
+{"id":"p0116","name":"Vermicelli","description":"Roasted sevai 400g","category":"staples","brand":"bambino","price":55,"created_at":"2026-01-22T15:15:00Z"}
+{"id":"p0117","name":"Himalayan Pink Salt","description":"Sendha namak rock salt 1kg","category":"staples","brand":"tata-sampann","price":90,"created_at":"2026-01-22T15:20:00Z"}
+{"id":"p0118","name":"Cumin Seeds","description":"Whole Jeera 100g","category":"staples","brand":"catch","price":85,"created_at":"2026-01-22T15:25:00Z"}
+{"id":"p0119","name":"Black Pepper","description":"Whole kali mirch 50g","category":"staples","brand":"everest","price":75,"created_at":"2026-01-22T15:30:00Z"}
+{"id":"p0120","name":"Cardamom Green","description":"Whole elaichi 50g","category":"staples","brand":"catch","price":220,"created_at":"2026-01-22T15:35:00Z"}
+{"id":"p0121","name":"Maggi Hot & Sweet","description":"Tomato chili sauce bottle 500g","category":"snacks","brand":"nestle","price":145,"created_at":"2026-01-22T15:40:00Z"}
+{"id":"p0122","name":"Kissan Mixed Fruit Jam","description":"Classic fruit spread 500g","category":"snacks","brand":"unilever","price":185,"created_at":"2026-01-22T15:45:00Z"}
+{"id":"p0123","name":"Peanut Butter","description":"Creamy peanut butter 340g","category":"snacks","brand":"dr-oetker","price":210,"created_at":"2026-01-22T15:50:00Z"}
+{"id":"p0124","name":"Nutella","description":"Hazelnut cocoa spread 350g","category":"snacks","brand":"ferrero","price":425,"created_at":"2026-01-22T15:55:00Z"}
+{"id":"p0125","name":"Cornitos Nachos","description":"Cheese and herbs flavor 150g","category":"snacks","brand":"cornitos","price":95,"created_at":"2026-01-22T16:00:00Z"}
+{"id":"p0126","name":"Kurkure Masala Munch","description":"Spicy corn snacks 90g","category":"snacks","brand":"pepsico","price":35,"created_at":"2026-01-22T16:05:00Z"}
+{"id":"p0127","name":"Act II Popcorn","description":"Golden sizzle instant popcorn","category":"snacks","brand":"conagra","price":40,"created_at":"2026-01-22T16:10:00Z"}
+{"id":"p0128","name":"Haldiram's Bhujia","description":"Aloo bhujia sev 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-22T16:15:00Z"}
+{"id":"p0129","name":"Mcvitie's Digestive","description":"High fiber biscuits 250g","category":"snacks","brand":"mcvities","price":75,"created_at":"2026-01-22T16:20:00Z"}
+{"id":"p0130","name":"Good Day Cashew","description":"Butter cookies with nuts","category":"snacks","brand":"britannia","price":40,"created_at":"2026-01-22T16:25:00Z"}
+{"id":"p0131","name":"Bournvita","description":"Chocolate health drink 500g","category":"beverages","brand":"mondelez","price":245,"created_at":"2026-01-22T16:30:00Z"}
+{"id":"p0132","name":"Horlicks","description":"Malt based health drink 500g","category":"beverages","brand":"unilever","price":265,"created_at":"2026-01-22T16:35:00Z"}
+{"id":"p0133","name":"Taj Mahal Tea","description":"Premium loose leaf tea 500g","category":"beverages","brand":"unilever","price":420,"created_at":"2026-01-22T16:40:00Z"}
+{"id":"p0134","name":"Wagh Bakri Tea","description":"Strong leaf tea 1kg","category":"beverages","brand":"wagh-bakri","price":580,"created_at":"2026-01-22T16:45:00Z"}
+{"id":"p0135","name":"Davidoff Coffee","description":"Rich aroma instant coffee 100g","category":"beverages","brand":"davidoff","price":650,"created_at":"2026-01-22T16:50:00Z"}
+{"id":"p0136","name":"Sprite 750ml","description":"Lemon-lime soft drink","category":"beverages","brand":"coca-cola","price":45,"created_at":"2026-01-22T16:55:00Z"}
+{"id":"p0137","name":"Bisleri Water","description":"Packaged drinking water 5L","category":"beverages","brand":"bisleri","price":70,"created_at":"2026-01-22T17:00:00Z"}
+{"id":"p0138","name":"Paper Boat Aam Panna","description":"Traditional mango drink 250ml","category":"beverages","brand":"hector-beverages","price":40,"created_at":"2026-01-22T17:05:00Z"}
+{"id":"p0139","name":"Epigamia Smoothie","description":"Mixed berries yogurt drink","category":"dairy","brand":"epigamia","price":80,"created_at":"2026-01-22T17:10:00Z"}
+{"id":"p0140","name":"Yakult","description":"Probiotic milk drink pack of 5","category":"dairy","brand":"yakult","price":90,"created_at":"2026-01-22T17:15:00Z"}
+{"id":"p0141","name":"Tide Ultra Matic","description":"Detergent liquid 1.2L pouch","category":"household","brand":"p&g","price":299,"created_at":"2026-01-22T17:20:00Z"}
+{"id":"p0142","name":"Comfort Fabric Conditioner","description":"Blue lily fresh 800ml","category":"household","brand":"unilever","price":245,"created_at":"2026-01-22T17:25:00Z"}
+{"id":"p0143","name":"Colin Surface Cleaner","description":"Glass cleaner spray 500ml","category":"household","brand":"reckitt","price":115,"created_at":"2026-01-22T17:30:00Z"}
+{"id":"p0144","name":"Good Knight Gold Flash","description":"Mosquito repellent machine + refill","category":"household","brand":"godrej","price":105,"created_at":"2026-01-22T17:35:00Z"}
+{"id":"p0145","name":"Hit Spray","description":"Crawling insect killer 400ml","category":"household","brand":"godrej","price":225,"created_at":"2026-01-22T17:40:00Z"}
+{"id":"p0146","name":"Odonil Air Freshener","description":"Jasmine mist gel for bathroom","category":"household","brand":"dabur","price":65,"created_at":"2026-01-22T17:45:00Z"}
+{"id":"p0147","name":"Scotch Brite Scrub","description":"Heavy duty scrub pad pack of 3","category":"household","brand":"3m","price":75,"created_at":"2026-01-22T17:50:00Z"}
+{"id":"p0148","name":"Selpak Kitchen Towel","description":"Super absorbent 2 ply 2 rolls","category":"household","brand":"selpak","price":140,"created_at":"2026-01-22T17:55:00Z"}
+{"id":"p0149","name":"Origami Face Tissues","description":"Soft 2 ply tissues 200 pulls","category":"household","brand":"origami","price":110,"created_at":"2026-01-22T18:00:00Z"}
+{"id":"p0150","name":"Garbage Bags Small","description":"Biodegradable black bags 30s","category":"household","brand":"fresho","price":85,"created_at":"2026-01-22T18:05:00Z"}
+{"id":"p0151","name":"Pepsodent 2-in-1","description":"Toothpaste for cavity protection","category":"personal-care","brand":"unilever","price":95,"created_at":"2026-01-22T18:10:00Z"}
+{"id":"p0152","name":"Oral-B Toothbrush","description":"CrissCross soft bristles","category":"personal-care","brand":"p&g","price":65,"created_at":"2026-01-22T18:15:00Z"}
+{"id":"p0153","name":"Listerine Mouthwash","description":"Cool mint 250ml bottle","category":"personal-care","brand":"j&j","price":165,"created_at":"2026-01-22T18:20:00Z"}
+{"id":"p0154","name":"Park Avenue Deodorant","description":"Signature series voyage 150ml","category":"personal-care","brand":"raymond","price":210,"created_at":"2026-01-22T18:25:00Z"}
+{"id":"p0155","name":"Nivea Soft Cream","description":"Light moisturizer 200ml","category":"personal-care","brand":"beiersdorf","price":325,"created_at":"2026-01-22T18:30:00Z"}
+{"id":"p0156","name":"Vaseline Body Lotion","description":"Intensive care cocoa glow 400ml","category":"personal-care","brand":"unilever","price":450,"created_at":"2026-01-22T18:35:00Z"}
+{"id":"p0157","name":"Sunsilk Shampoo","description":"Stunning black shine 450ml","category":"personal-care","brand":"unilever","price":350,"created_at":"2026-01-22T18:40:00Z"}
+{"id":"p0158","name":"Pantene Conditioner","description":"Advanced hairfall solution 200ml","category":"personal-care","brand":"p&g","price":220,"created_at":"2026-01-22T18:45:00Z"}
+{"id":"p0159","name":"Livon Serum","description":"Hair serum for frizz-free hair 100ml","category":"personal-care","brand":"marico","price":250,"created_at":"2026-01-22T18:50:00Z"}
+{"id":"p0160","name":"Savlon Handwash","description":"Moisture shield refill 750ml","category":"personal-care","brand":"itc","price":145,"created_at":"2026-01-22T18:55:00Z"}
+{"id":"p0161","name":"Johnson's Baby Powder","description":"Pure cornstarch baby powder 200g","category":"baby-care","brand":"j&j","price":190,"created_at":"2026-01-22T19:00:00Z"}
+{"id":"p0162","name":"Sebamed Baby Wash","description":"Extra soft body wash 200ml","category":"baby-care","brand":"sebamed","price":650,"created_at":"2026-01-22T19:05:00Z"}
+{"id":"p0163","name":"Cerelac Stage 1","description":"Wheat baby cereal 300g","category":"baby-care","brand":"nestle","price":285,"created_at":"2026-01-22T19:10:00Z"}
+{"id":"p0164","name":"Whiskas Dry Cat Food","description":"Ocean fish flavor 1.1kg","category":"pet-care","brand":"mars","price":450,"created_at":"2026-01-22T19:15:00Z"}
+{"id":"p0165","name":"Drools Dog Treats","description":"Absolute calcium bone 20 sticks","category":"pet-care","brand":"drools","price":350,"created_at":"2026-01-22T19:20:00Z"}
+{"id":"p0166","name":"M-Seal Phataphat","description":"Epoxy compound for leaks","category":"hardware","brand":"pidilite","price":30,"created_at":"2026-01-22T19:25:00Z"}
+{"id":"p0167","name":"Fevikwik","description":"Instant adhesive 1g tube","category":"hardware","brand":"pidilite","price":5,"created_at":"2026-01-22T19:30:00Z"}
+{"id":"p0168","name":"Duracell AA Batteries","description":"Alkaline batteries pack of 4","category":"hardware","brand":"duracell","price":180,"created_at":"2026-01-22T19:35:00Z"}
+{"id":"p0169","name":"Syska LED Bulb","description":"9W cool day light bulb","category":"hardware","brand":"syska","price":120,"created_at":"2026-01-22T19:40:00Z"}
+{"id":"p0170","name":"Zebronics Mouse","description":"Wired optical USB mouse","category":"electronics","brand":"zebronics","price":199,"created_at":"2026-01-22T19:45:00Z"}
+{"id":"p0171","name":"SanDisk 64GB Pen Drive","description":"Cruzer Blade USB 2.0","category":"electronics","brand":"western-digital","price":450,"created_at":"2026-01-22T19:50:00Z"}
+{"id":"p0172","name":"Boat Aux Cable","description":"3.5mm male to male 1.5m","category":"electronics","brand":"boat","price":150,"created_at":"2026-01-22T19:55:00Z"}
+{"id":"p0173","name":"Mi Power Bank 3i","description":"10000mAh fast charging","category":"electronics","brand":"xiaomi","price":1299,"created_at":"2026-01-22T20:00:00Z"}
+{"id":"p0174","name":"Pigeon Sandwich Maker","description":"Non-stick fixed plates","category":"appliances","brand":"pigeon","price":999,"created_at":"2026-01-22T20:05:00Z"}
+{"id":"p0175","name":"Bajaj Electric Kettle","description":"1.5L stainless steel body","category":"appliances","brand":"bajaj","price":1150,"created_at":"2026-01-22T20:10:00Z"}
+{"id":"p0176","name":"Cello Water Bottle","description":"Infuse plastic bottle 1L","category":"household","brand":"cello","price":180,"created_at":"2026-01-22T20:15:00Z"}
+{"id":"p0177","name":"Milton Tiffin","description":"3-tier stainless steel lunch box","category":"household","brand":"milton","price":550,"created_at":"2026-01-22T20:20:00Z"}
+{"id":"p0178","name":"Borosil Glass Bowl","description":"Microwave safe mixing bowl 1.5L","category":"household","brand":"borosil","price":420,"created_at":"2026-01-22T20:25:00Z"}
+{"id":"p0179","name":"Prestige Gas Lighter","description":"Stainless steel spark lighter","category":"household","brand":"prestige","price":150,"created_at":"2026-01-22T20:30:00Z"}
+{"id":"p0180","name":"Wonderchef Pan","description":"Non-stick fry pan 24cm","category":"household","brand":"wonderchef","price":1250,"created_at":"2026-01-22T20:35:00Z"}
+{"id":"p0181","name":"Fresh Mushrooms","description":"Button mushrooms 200g pack","category":"vegetables","brand":"fresho","price":55,"created_at":"2026-01-22T20:40:00Z"}
+{"id":"p0182","name":"Baby Corn","description":"Fresh peeled baby corn 200g","category":"vegetables","brand":"fresho","price":45,"created_at":"2026-01-22T20:45:00Z"}
+{"id":"p0183","name":"Sweet Corn","description":"Dual pack sweet corn cob","category":"vegetables","brand":"fresho","price":60,"created_at":"2026-01-22T20:50:00Z"}
+{"id":"p0184","name":"Purple Cabbage","description":"Exotic red cabbage 500g","category":"vegetables","brand":"fresho","price":40,"created_at":"2026-01-22T20:55:00Z"}
+{"id":"p0185","name":"Zucchini Yellow","description":"Fresh exotic zucchini 250g","category":"vegetables","brand":"fresho","price":50,"created_at":"2026-01-22T21:00:00Z"}
+{"id":"p0186","name":"Iceberg Lettuce","description":"Crisp salad lettuce 250g","category":"vegetables","brand":"fresho","price":45,"created_at":"2026-01-22T21:05:00Z"}
+{"id":"p0187","name":"Tofu","description":"Soya paneer extra firm 200g","category":"dairy","brand":"fresho","price":85,"created_at":"2026-01-22T21:10:00Z"}
+{"id":"p0188","name":"Soy Milk","description":"Unsweetened plant milk 1L","category":"dairy","brand":"so-good","price":150,"created_at":"2026-01-22T21:15:00Z"}
+{"id":"p0189","name":"Almond Milk","description":"Vanilla flavored almond drink 1L","category":"dairy","brand":"raw-pressery","price":275,"created_at":"2026-01-22T21:20:00Z"}
+{"id":"p0190","name":"Coconut Milk","description":"Cooking cream for curries 200ml","category":"staples","brand":"dabur","price":75,"created_at":"2026-01-22T21:25:00Z"}
+{"id":"p0191","name":"Baking Powder","description":"Double acting for cakes 100g","category":"staples","brand":"weikfield","price":45,"created_at":"2026-01-22T21:30:00Z"}
+{"id":"p0192","name":"Vanilla Essence","description":"Flavoring for baking 20ml","category":"staples","brand":"ossoro","price":60,"created_at":"2026-01-22T21:35:00Z"}
+{"id":"p0193","name":"Dry Yeast","description":"Active instant yeast 50g","category":"staples","brand":"urban-platter","price":120,"created_at":"2026-01-22T21:40:00Z"}
+{"id":"p0194","name":"Cocoa Powder","description":"Unsweetened dark cocoa 100g","category":"staples","brand":"cadbury","price":150,"created_at":"2026-01-22T21:45:00Z"}
+{"id":"p0195","name":"Honey Roasted Cashews","description":"Premium snack nuts 100g","category":"snacks","brand":"happilo","price":245,"created_at":"2026-01-22T21:50:00Z"}
+{"id":"p0196","name":"California Almonds","description":"Badam giri premium 200g","category":"snacks","brand":"happilo","price":350,"created_at":"2026-01-22T21:55:00Z"}
+{"id":"p0197","name":"Pistachios Roasted","description":"Salted pista with shell 200g","category":"snacks","brand":"happilo","price":450,"created_at":"2026-01-22T22:00:00Z"}
+{"id":"p0198","name":"Walnut Kernels","description":"Akhrot giri premium 200g","category":"snacks","brand":"farmley","price":550,"created_at":"2026-01-22T22:05:00Z"}
+{"id":"p0199","name":"Dates Ajwa","description":"Premium holy dates 500g","category":"snacks","brand":"fresho","price":999,"created_at":"2026-01-22T22:10:00Z"}
+{"id":"p0200","name":"Raisins","description":"Seedless kishmish 200g","category":"snacks","brand":"fresho","price":120,"created_at":"2026-01-22T22:15:00Z"}
+{"id":"p0201","name":"Frozen Green Peas","description":"Garden fresh peas 500g","category":"frozen","brand":"safal","price":85,"created_at":"2026-01-22T22:20:00Z"}
+{"id":"p0202","name":"Frozen Sweet Corn","description":"Ready to boil kernels 500g","category":"frozen","brand":"safal","price":95,"created_at":"2026-01-22T22:25:00Z"}
+{"id":"p0203","name":"McCain French Fries","description":"Ready to fry potato fingers 450g","category":"frozen","brand":"mccain","price":140,"created_at":"2026-01-22T22:30:00Z"}
+{"id":"p0204","name":"McCain Veggie Nuggets","description":"Frozen snacks pack 400g","category":"frozen","brand":"mccain","price":175,"created_at":"2026-01-22T22:35:00Z"}
+{"id":"p0205","name":"Frozen Mixed Veg","description":"Carrot, beans, peas mix 500g","category":"frozen","brand":"safal","price":110,"created_at":"2026-01-22T22:40:00Z"}
+{"id":"p0206","name":"Frozen Paratha","description":"Whole wheat malabar paratha 5s","category":"frozen","brand":"id-fresh","price":125,"created_at":"2026-01-22T22:45:00Z"}
+{"id":"p0207","name":"Frozen Idli Batter","description":"Stone ground batter 1kg","category":"frozen","brand":"id-fresh","price":90,"created_at":"2026-01-22T22:50:00Z"}
+{"id":"p0208","name":"Amul Vanilla Ice Cream","description":"Real milk ice cream 1L","category":"frozen","brand":"amul","price":180,"created_at":"2026-01-22T22:55:00Z"}
+{"id":"p0209","name":"Kwality Walls Cornetto","description":"Chocolate disc cone pack of 2","category":"frozen","brand":"unilever","price":120,"created_at":"2026-01-22T23:00:00Z"}
+{"id":"p0210","name":"Mother Dairy Kulfi","description":"Traditional pista kulfi stick","category":"frozen","brand":"mother-dairy","price":40,"created_at":"2026-01-22T23:05:00Z"}
+{"id":"p0211","name":"Ching's Soy Sauce","description":"Dark soy sauce for noodles 200g","category":"staples","brand":"chings","price":55,"created_at":"2026-01-22T23:10:00Z"}
+{"id":"p0212","name":"Ching's Green Chili Sauce","description":"Spicy chinese sauce 200g","category":"staples","brand":"chings","price":50,"created_at":"2026-01-22T23:15:00Z"}
+{"id":"p0213","name":"Schezwan Chutney","description":"Dip and stir fry sauce 250g","category":"staples","brand":"chings","price":90,"created_at":"2026-01-22T23:20:00Z"}
+{"id":"p0214","name":"Hakka Noodles","description":"Veg wheat noodles 150g","category":"staples","brand":"chings","price":35,"created_at":"2026-01-22T23:25:00Z"}
+{"id":"p0215","name":"Pasta Penne","description":"Durum wheat pasta 500g","category":"staples","brand":"del-monte","price":155,"created_at":"2026-01-22T23:30:00Z"}
+{"id":"p0216","name":"Pasta Fusilli","description":"Spiral wheat pasta 500g","category":"staples","brand":"weikfield","price":140,"created_at":"2026-01-22T23:35:00Z"}
+{"id":"p0217","name":"Mayonnaise","description":"Eggless veg mayo 250g","category":"staples","brand":"funfoods","price":85,"created_at":"2026-01-22T23:40:00Z"}
+{"id":"p0218","name":"Pizza Sauce","description":"Pasta and pizza sauce jar 300g","category":"staples","brand":"veeba","price":125,"created_at":"2026-01-22T23:45:00Z"}
+{"id":"p0219","name":"Thousand Island Dressing","description":"Salad dressing bottle 250g","category":"staples","brand":"veeba","price":145,"created_at":"2026-01-22T23:50:00Z"}
+{"id":"p0220","name":"Organic Apple Cider Vinegar","description":"With mother of vinegar 500ml","category":"staples","brand":"bragg","price":650,"created_at":"2026-01-22T23:55:00Z"}
+{"id":"p0221","name":"Dabur Chyawanprash","description":"Immunity booster 1kg","category":"personal-care","brand":"dabur","price":395,"created_at":"2026-01-21T08:00:00Z"}
+{"id":"p0222","name":"Zandu Balm","description":"Pain relief ointment 25g","category":"personal-care","brand":"emami","price":55,"created_at":"2026-01-21T08:05:00Z"}
+{"id":"p0223","name":"Moov Spray","description":"Back pain relief 50g","category":"personal-care","brand":"reckitt","price":185,"created_at":"2026-01-21T08:10:00Z"}
+{"id":"p0224","name":"Band-Aid","description":"Antiseptic bandages pack of 10","category":"personal-care","brand":"j&j","price":40,"created_at":"2026-01-21T08:15:00Z"}
+{"id":"p0225","name":"Digene Tablet","description":"Antacid for gas and acidity 15s","category":"personal-care","brand":"abbott","price":25,"created_at":"2026-01-21T08:20:00Z"}
+{"id":"p0226","name":"Volini Gel","description":"Quick pain relief 30g","category":"personal-care","brand":"sun-pharma","price":115,"created_at":"2026-01-21T08:25:00Z"}
+{"id":"p0227","name":"Eno Lemon","description":"Fruit salt for acidity 100g","category":"personal-care","brand":"gsk","price":160,"created_at":"2026-01-21T08:30:00Z"}
+{"id":"p0228","name":"Revital H","description":"Daily health supplement 30 caps","category":"personal-care","brand":"sun-pharma","price":310,"created_at":"2026-01-21T08:35:00Z"}
+{"id":"p0229","name":"Glucon-D Orange","description":"Instant energy drink 500g","category":"beverages","brand":"zydus","price":145,"created_at":"2026-01-21T08:40:00Z"}
+{"id":"p0230","name":"Horlicks Women","description":"Caramel health drink 400g","category":"beverages","brand":"unilever","price":320,"created_at":"2026-01-21T08:45:00Z"}
+{"id":"p0231","name":"Tide Detergent Bar","description":"Laundry soap pack of 5","category":"household","brand":"p&g","price":85,"created_at":"2026-01-21T08:50:00Z"}
+{"id":"p0232","name":"Rin Fabric Whitener","description":"Ala liquid bleach 500ml","category":"household","brand":"unilever","price":75,"created_at":"2026-01-21T08:55:00Z"}
+{"id":"p0233","name":"Pril Dishwash Liquid","description":"Lime degreaser 425ml","category":"household","brand":"henkel","price":105,"created_at":"2026-01-21T09:00:00Z"}
+{"id":"p0234","name":"Exo Dishwash Bar","description":"Antibacterial wash bar 300g","category":"household","brand":"jyothy-labs","price":45,"created_at":"2026-01-21T09:05:00Z"}
+{"id":"p0235","name":"Floor Mop Stick","description":"Microfiber flat mop","category":"household","brand":"gala","price":450,"created_at":"2026-01-21T09:10:00Z"}
+{"id":"p0236","name":"Broom Grass","description":"Soft floor sweeping broom","category":"household","brand":"gala","price":180,"created_at":"2026-01-21T09:15:00Z"}
+{"id":"p0237","name":"Cleaning Sponge","description":"Cellulose sponge pack of 2","category":"household","brand":"scotch-brite","price":95,"created_at":"2026-01-21T09:20:00Z"}
+{"id":"p0238","name":"Naphthalene Balls","description":"White moth balls 100g","category":"household","brand":"fresho","price":60,"created_at":"2026-01-21T09:25:00Z"}
+{"id":"p0239","name":"Aluminium Foil","description":"Food grade foil 18m","category":"household","brand":"freshwrap","price":145,"created_at":"2026-01-21T09:30:00Z"}
+{"id":"p0240","name":"Cling Wrap","description":"Food preservation film 30m","category":"household","brand":"fresho","price":120,"created_at":"2026-01-21T09:35:00Z"}
+{"id":"p0241","name":"Himalaya Baby Lotion","description":"Daily nourishing lotion 400ml","category":"baby-care","brand":"himalaya","price":295,"created_at":"2026-01-21T09:40:00Z"}
+{"id":"p0242","name":"Mamaearth Baby Shampoo","description":"Tear-free gentle wash 400ml","category":"baby-care","brand":"mamaearth","price":399,"created_at":"2026-01-21T09:45:00Z"}
+{"id":"p0243","name":"Pampers Wipes","description":"Aloe fresh wipes 72s","category":"baby-care","brand":"p&g","price":185,"created_at":"2026-01-21T09:50:00Z"}
+{"id":"p0244","name":"Johnson's Soap","description":"Gentle baby soap pack of 3","category":"baby-care","brand":"j&j","price":210,"created_at":"2026-01-21T09:55:00Z"}
+{"id":"p0245","name":"Teddyy Diaper Pants","description":"Cottony soft diapers XL 40s","category":"baby-care","brand":"teddyy","price":550,"created_at":"2026-01-21T10:00:00Z"}
+{"id":"p0246","name":"Lifebuoy Handwash","description":"Total 10 protection refill 1L","category":"personal-care","brand":"unilever","price":210,"created_at":"2026-01-21T10:05:00Z"}
+{"id":"p0247","name":"Fiama Shower Gel","description":"Blackcurrant and bearberry 500ml","category":"personal-care","brand":"itc","price":375,"created_at":"2026-01-21T10:10:00Z"}
+{"id":"p0248","name":"Pears Soap","description":"Pure and gentle pack of 3","category":"personal-care","brand":"unilever","price":245,"created_at":"2026-01-21T10:15:00Z"}
+{"id":"p0249","name":"Santoor Sandalwood Soap","description":"Sandal and turmeric 4x125g","category":"personal-care","brand":"wipro","price":195,"created_at":"2026-01-21T10:20:00Z"}
+{"id":"p0250","name":"Garnier Face Wash","description":"Turbo bright men's wash 100g","category":"personal-care","brand":"loreal","price":210,"created_at":"2026-01-21T10:25:00Z"}
+{"id":"p0251","name":"Wild Stone Talc","description":"Ultra sensual talc 250g","category":"personal-care","brand":"mcnroe","price":160,"created_at":"2026-01-21T10:30:00Z"}
+{"id":"p0252","name":"Yardley Lavender","description":"English lavender talc 250g","category":"personal-care","brand":"yardley","price":225,"created_at":"2026-01-21T10:35:00Z"}
+{"id":"p0253","name":"Old Spice After Shave","description":"Atomizer original 150ml","category":"personal-care","brand":"p&g","price":450,"created_at":"2026-01-21T10:40:00Z"}
+{"id":"p0254","name":"Stayfree Secure","description":"Cottony soft XL wings 40s","category":"personal-care","brand":"j&j","price":285,"created_at":"2026-01-21T10:45:00Z"}
+{"id":"p0255","name":"Gillette Shaving Foam","description":"Lemon lime scent 400g","category":"personal-care","brand":"p&g","price":299,"created_at":"2026-01-21T10:50:00Z"}
+{"id":"p0256","name":"Vivel Body Wash","description":"Lavender almond shower gel 500ml","category":"personal-care","brand":"itc","price":250,"created_at":"2026-01-21T10:55:00Z"}
+{"id":"p0257","name":"Set Wet Gel","description":"Vertical hold hair styling gel 100ml","category":"personal-care","brand":"marico","price":95,"created_at":"2026-01-21T11:00:00Z"}
+{"id":"p0258","name":"Streax Hair Serum","description":"Vitalized with walnut oil 100ml","category":"personal-care","brand":"streax","price":210,"created_at":"2026-01-21T11:05:00Z"}
+{"id":"p0259","name":"Bajaj Almond Oil","description":"Drops hair oil non-sticky 500ml","category":"personal-care","brand":"bajaj","price":280,"created_at":"2026-01-21T11:10:00Z"}
+{"id":"p0260","name":"Dabur Amla Hair Oil","description":"Pure amla nourishment 450ml","category":"personal-care","brand":"dabur","price":195,"created_at":"2026-01-21T11:15:00Z"}
+{"id":"p0261","name":"Indulekha Bringha","description":"Ayurvedic hair oil 100ml","category":"personal-care","brand":"unilever","price":430,"created_at":"2026-01-21T11:20:00Z"}
+{"id":"p0262","name":"Clear Men Shampoo","description":"Cool sport menthol 400ml","category":"personal-care","brand":"unilever","price":399,"created_at":"2026-01-21T11:25:00Z"}
+{"id":"p0263","name":"Loreal Total Repair","description":"Shampoo for damaged hair 640ml","category":"personal-care","brand":"loreal","price":550,"created_at":"2026-01-21T11:30:00Z"}
+{"id":"p0264","name":"Schwarzkopf Shampoo","description":"Gliss hair repair 400ml","category":"personal-care","brand":"henkel","price":450,"created_at":"2026-01-21T11:35:00Z"}
+{"id":"p0265","name":"Tresemme Keratin Smooth","description":"Shampoo for salon smooth hair","category":"personal-care","brand":"unilever","price":480,"created_at":"2026-01-21T11:40:00Z"}
+{"id":"p0266","name":"Biotique Face Wash","description":"Honey gel cleanser 150ml","category":"personal-care","brand":"biotique","price":180,"created_at":"2026-01-21T11:45:00Z"}
+{"id":"p0267","name":"Clean & Clear","description":"Foaming face wash 150ml","category":"personal-care","brand":"j&j","price":195,"created_at":"2026-01-21T11:50:00Z"}
+{"id":"p0268","name":"Nivea Men Face Wash","description":"Oil control 100g","category":"personal-care","brand":"beiersdorf","price":225,"created_at":"2026-01-21T11:55:00Z"}
+{"id":"p0269","name":"Cetaphil Cleanser","description":"Gentle skin cleanser 250ml","category":"personal-care","brand":"galderma","price":550,"created_at":"2026-01-21T12:00:00Z"}
+{"id":"p0270","name":"Lakme Peach Milk","description":"Soft moisturizer 120ml","category":"personal-care","brand":"unilever","price":210,"created_at":"2026-01-21T12:05:00Z"}
+{"id":"p0271","name":"Boro Plus","description":"Antiseptic cream ayurvedic 80ml","category":"personal-care","brand":"emami","price":135,"created_at":"2026-01-21T12:10:00Z"}
+{"id":"p0272","name":"Vicco Turmeric","description":"Ayurvedic skin cream 50g","category":"personal-care","brand":"vicco","price":180,"created_at":"2026-01-21T12:15:00Z"}
+{"id":"p0273","name":"Neutrogena Sunblock","description":"Ultra sheer SPF 50+ 30ml","category":"personal-care","brand":"j&j","price":250,"created_at":"2026-01-21T12:20:00Z"}
+{"id":"p0274","name":"Olay 7 in 1","description":"Day cream anti-ageing 50g","category":"personal-care","brand":"p&g","price":899,"created_at":"2026-01-21T12:25:00Z"}
+{"id":"p0275","name":"Fair & Lovely","description":"Glow and lovely multivitamin 110g","category":"personal-care","brand":"unilever","price":195,"created_at":"2026-01-21T12:30:00Z"}
+{"id":"p0276","name":"Engage Perfume","description":"W1 citrus and floral for women","category":"personal-care","brand":"itc","price":225,"created_at":"2026-01-21T12:35:00Z"}
+{"id":"p0277","name":"Denver Deo","description":"Hamilton intense for men 165ml","category":"personal-care","brand":"vanesa","price":210,"created_at":"2026-01-21T12:40:00Z"}
+{"id":"p0278","name":"Axe Signature","description":"Champion body spray 154ml","category":"personal-care","brand":"unilever","price":250,"created_at":"2026-01-21T12:45:00Z"}
+{"id":"p0279","name":"Fog Deodorant","description":"Marco body spray no gas 150ml","category":"personal-care","brand":"vini","price":225,"created_at":"2026-01-21T12:50:00Z"}
+{"id":"p0280","name":"Eva Deodorant","description":"Wild perfume for women 125ml","category":"personal-care","brand":"ttk","price":150,"created_at":"2026-01-21T12:55:00Z"}
+{"id":"p0281","name":"Maggi Cuppa Noodles","description":"Masala spicy cup noodles","category":"snacks","brand":"nestle","price":50,"created_at":"2026-01-21T13:00:00Z"}
+{"id":"p0282","name":"Top Ramen Curry","description":"Flat noodles curry flavor","category":"snacks","brand":"nissin","price":25,"created_at":"2026-01-21T13:05:00Z"}
+{"id":"p0283","name":"Yippee Noodles","description":"Magic masala instant noodles","category":"snacks","brand":"itc","price":15,"created_at":"2026-01-21T13:10:00Z"}
+{"id":"p0284","name":"Bingo Mad Angles","description":"Achaari masti flavor chips","category":"snacks","brand":"itc","price":20,"created_at":"2026-01-21T13:15:00Z"}
+{"id":"p0285","name":"Parle-G","description":"The original glucose biscuits 800g","category":"snacks","brand":"parle","price":85,"created_at":"2026-01-21T13:20:00Z"}
+{"id":"p0286","name":"Hide & Seek","description":"Chocolate chip cookies","category":"snacks","brand":"parle","price":30,"created_at":"2026-01-21T13:25:00Z"}
+{"id":"p0287","name":"Bourbon Biscuits","description":"Chocolate cream sandwich","category":"snacks","brand":"britannia","price":25,"created_at":"2026-01-21T13:30:00Z"}
+{"id":"p0288","name":"Little Hearts","description":"Sugar glazed biscuits 75g","category":"snacks","brand":"britannia","price":20,"created_at":"2026-01-21T13:35:00Z"}
+{"id":"p0289","name":"Monaco","description":"Classic salted crackers","category":"snacks","brand":"parle","price":20,"created_at":"2026-01-21T13:40:00Z"}
+{"id":"p0290","name":"Krackjack","description":"Sweet and salty crackers","category":"snacks","brand":"parle","price":20,"created_at":"2026-01-21T13:45:00Z"}
+{"id":"p0291","name":"Dark Fantasy","description":"Choco fills premium cookies","category":"snacks","brand":"itc","price":40,"created_at":"2026-01-21T13:50:00Z"}
+{"id":"p0292","name":"Jim Jam","description":"Cream biscuits with jam center","category":"snacks","brand":"britannia","price":35,"created_at":"2026-01-21T13:55:00Z"}
+{"id":"p0293","name":"KitKat 4 Finger","description":"Crispy wafer chocolate 38g","category":"snacks","brand":"nestle","price":45,"created_at":"2026-01-21T14:00:00Z"}
+{"id":"p0294","name":"Snickers","description":"Peanut chocolate bar 45g","category":"snacks","brand":"mars","price":50,"created_at":"2026-01-21T14:05:00Z"}
+{"id":"p0295","name":"Munch","description":"Crunchy chocolate wafer","category":"snacks","brand":"nestle","price":10,"created_at":"2026-01-21T14:10:00Z"}
+{"id":"p0296","name":"5 Star","description":"Caramel and nougat bar","category":"snacks","brand":"mondelez","price":10,"created_at":"2026-01-21T14:15:00Z"}
+{"id":"p0297","name":"Ferrero Rocher","description":"Premium hazelnut chocolate 4s","category":"snacks","brand":"ferrero","price":180,"created_at":"2026-01-21T14:20:00Z"}
+{"id":"p0298","name":"Kinder Joy","description":"Chocolate with toy for boys","category":"snacks","brand":"ferrero","price":45,"created_at":"2026-01-21T14:25:00Z"}
+{"id":"p0299","name":"Milkybar","description":"White chocolate bar 25g","category":"snacks","brand":"nestle","price":20,"created_at":"2026-01-21T14:30:00Z"}
+{"id":"p0300","name":"Mentos","description":"Mint flavor chewy dragees","category":"snacks","brand":"perfetti","price":10,"created_at":"2026-01-21T14:35:00Z"}
+{"id":"p0301","name":"Pulpy Orange Juice","description":"Fruit drink with orange pulp 1L","category":"beverages","brand":"minute-maid","price":99,"created_at":"2026-01-21T14:40:00Z"}
+{"id":"p0302","name":"Gatorade Blue Bolt","description":"Sports drink for hydration 500ml","category":"beverages","brand":"pepsico","price":50,"created_at":"2026-01-21T14:45:00Z"}
+{"id":"p0303","name":"Monster Energy","description":"Green energy drink 350ml","category":"beverages","brand":"monster","price":110,"created_at":"2026-01-21T14:50:00Z"}
+{"id":"p0304","name":"Appy Fizz","description":"Sparkling apple drink 600ml","category":"beverages","brand":"parle-agro","price":40,"created_at":"2026-01-21T14:55:00Z"}
+{"id":"p0305","name":"Frooti Mango","description":"Fresh mango drink tetrapack 1L","category":"beverages","brand":"parle-agro","price":75,"created_at":"2026-01-21T15:00:00Z"}
+{"id":"p0306","name":"Tang Orange","description":"Instant drink mix powder 500g","category":"beverages","brand":"mondelez","price":180,"created_at":"2026-01-21T15:05:00Z"}
+{"id":"p0307","name":"Rooh Afza","description":"Concentrated herbal squash 750ml","category":"beverages","brand":"hamdard","price":175,"created_at":"2026-01-21T15:10:00Z"}
+{"id":"p0308","name":"Jeera Masala Soda","description":"Spicy cumin soft drink","category":"beverages","brand":"catch","price":20,"created_at":"2026-01-21T15:15:00Z"}
+{"id":"p0309","name":"Diet Coke","description":"Sugar free cola 300ml can","category":"beverages","brand":"coca-cola","price":40,"created_at":"2026-01-21T15:20:00Z"}
+{"id":"p0310","name":"Thums Up","description":"Strong carbonated cola 2.25L","category":"beverages","brand":"coca-cola","price":99,"created_at":"2026-01-21T15:25:00Z"}
+{"id":"p0311","name":"Steel Cut Oats","description":"Whole grain high fiber oats 1kg","category":"staples","brand":"bagrrys","price":245,"created_at":"2026-01-21T15:30:00Z"}
+{"id":"p0312","name":"Muesli Fruit & Nut","description":"Breakfast cereal with berries 750g","category":"snacks","brand":"kelloggs","price":450,"created_at":"2026-01-21T15:35:00Z"}
+{"id":"p0313","name":"Multigrain Bread","description":"Freshly baked healthy loaf 400g","category":"bakery","brand":"fresho","price":55,"created_at":"2026-01-21T15:40:00Z"}
+{"id":"p0314","name":"Whole Wheat Pizza Base","description":"Pack of 2 bases for baking","category":"bakery","brand":"fresho","price":45,"created_at":"2026-01-21T15:45:00Z"}
+{"id":"p0315","name":"Burger Buns","description":"Soft sesame seed buns pack of 4","category":"bakery","brand":"fresho","price":40,"created_at":"2026-01-21T15:50:00Z"}
+{"id":"p0316","name":"Masala Pav","description":"Spiced bread rolls pack of 6","category":"bakery","brand":"fresho","price":35,"created_at":"2026-01-21T15:55:00Z"}
+{"id":"p0317","name":"Garlic Bread","description":"Baguette with herb butter","category":"bakery","brand":"fresho","price":85,"created_at":"2026-01-21T16:00:00Z"}
+{"id":"p0318","name":"Chocolate Muffin","description":"Soft baked dessert muffin 1 unit","category":"bakery","brand":"fresho","price":60,"created_at":"2026-01-21T16:05:00Z"}
+{"id":"p0319","name":"Red Velvet Cake","description":"Eggless sponge cake 500g","category":"bakery","brand":"fresho","price":450,"created_at":"2026-01-21T16:10:00Z"}
+{"id":"p0320","name":"Feta Cheese","description":"Greek style salad cheese 200g","category":"dairy","brand":"mozzarella-co","price":350,"created_at":"2026-01-21T16:15:00Z"}
+{"id":"p0321","name":"Gouda Cheese Slices","description":"Mild flavored yellow cheese","category":"dairy","brand":"amul","price":195,"created_at":"2026-01-21T16:20:00Z"}
+{"id":"p0322","name":"Mascarpone Cheese","description":"Italian cream cheese for tiramisu","category":"dairy","brand":"imperia","price":499,"created_at":"2026-01-21T16:25:00Z"}
+{"id":"p0323","name":"Soy Sauce Light","description":"Traditional seasoning sauce 200ml","category":"staples","brand":"lee-kum-kee","price":225,"created_at":"2026-01-21T16:30:00Z"}
+{"id":"p0324","name":"Fish Sauce","description":"Thai cooking sauce 200ml","category":"staples","brand":"thai-heritage","price":180,"created_at":"2026-01-21T16:35:00Z"}
+{"id":"p0325","name":"Sriracha Hot Sauce","description":"Chili sauce with garlic 400ml","category":"staples","brand":"huy-fong","price":550,"created_at":"2026-01-21T16:40:00Z"}
+{"id":"p0326","name":"Jalapenos Sliced","description":"Pickled green peppers jar 200g","category":"staples","brand":"neo","price":145,"created_at":"2026-01-21T16:45:00Z"}
+{"id":"p0327","name":"Gherkins Sliced","description":"Pickled cucumbers for burgers","category":"staples","brand":"neo","price":135,"created_at":"2026-01-21T16:50:00Z"}
+{"id":"p0328","name":"Black Olives","description":"Pitted olives in brine 450g","category":"staples","brand":"figaro","price":210,"created_at":"2026-01-21T16:55:00Z"}
+{"id":"p0329","name":"Green Olives","description":"Stuffed with pimento 450g","category":"staples","brand":"borges","price":245,"created_at":"2026-01-21T17:00:00Z"}
+{"id":"p0330","name":"Couscous","description":"Semolina pasta grains 500g","category":"staples","brand":"urban-platter","price":299,"created_at":"2026-01-21T17:05:00Z"}
+{"id":"p0331","name":"Organic Flax Seeds","description":"Rich in Omega-3 250g","category":"staples","brand":"organic-india","price":150,"created_at":"2026-01-21T17:10:00Z"}
+{"id":"p0332","name":"Chia Seeds","description":"Superfood for smoothies 250g","category":"staples","brand":"true-elements","price":250,"created_at":"2026-01-21T17:15:00Z"}
+{"id":"p0333","name":"Pumpkin Seeds","description":"Raw peeled seeds 150g","category":"snacks","brand":"happilo","price":199,"created_at":"2026-01-21T17:20:00Z"}
+{"id":"p0334","name":"Sunflower Seeds","description":"Roasted and salted 150g","category":"snacks","brand":"farmley","price":180,"created_at":"2026-01-21T17:25:00Z"}
+{"id":"p0335","name":"Goji Berries","description":"Dried antioxidant berries 100g","category":"snacks","brand":"urban-platter","price":450,"created_at":"2026-01-21T17:30:00Z"}
+{"id":"p0336","name":"Avocado","description":"Fresh butter fruit 1 unit","category":"fruits","brand":"fresho","price":150,"created_at":"2026-01-21T17:35:00Z"}
+{"id":"p0337","name":"Blueberries","description":"Imported fresh berries 125g","category":"fruits","brand":"fresho","price":350,"created_at":"2026-01-21T17:40:00Z"}
+{"id":"p0338","name":"Dragon Fruit","description":"Exotic red/white fruit 1 unit","category":"fruits","brand":"fresho","price":90,"created_at":"2026-01-21T17:45:00Z"}
+{"id":"p0339","name":"Passion Fruit","description":"Purple aromatic fruit pack of 2","category":"fruits","brand":"fresho","price":120,"created_at":"2026-01-21T17:50:00Z"}
+{"id":"p0340","name":"Mangosteen","description":"Queen of fruits 250g","category":"fruits","brand":"fresho","price":399,"created_at":"2026-01-21T17:55:00Z"}
+{"id":"p0341","name":"Saffron","description":"Kashmiri Kesar 1g pack","category":"staples","brand":"baby-brand","price":350,"created_at":"2026-01-21T18:00:00Z"}
+{"id":"p0342","name":"Organic Turmeric","description":"High curcumin haldi 200g","category":"staples","brand":"24-mantra","price":85,"created_at":"2026-01-21T18:05:00Z"}
+{"id":"p0343","name":"Cinnamon Sticks","description":"Dalchini whole spice 50g","category":"staples","brand":"everest","price":65,"created_at":"2026-01-21T18:10:00Z"}
+{"id":"p0344","name":"Cloves","description":"Laung whole spice 50g","category":"staples","brand":"catch","price":95,"created_at":"2026-01-21T18:15:00Z"}
+{"id":"p0345","name":"Nutmeg","description":"Whole jaiphal pack of 2","category":"staples","brand":"fresho","price":45,"created_at":"2026-01-21T18:20:00Z"}
+{"id":"p0346","name":"Star Anise","description":"Chakra phool 50g","category":"staples","brand":"urban-platter","price":120,"created_at":"2026-01-21T18:25:00Z"}
+{"id":"p0347","name":"Bay Leaves","description":"Tej patta spice 20g","category":"staples","brand":"catch","price":30,"created_at":"2026-01-21T18:30:00Z"}
+{"id":"p0348","name":"Baking Soda","description":"Sodium bicarbonate for cooking 100g","category":"staples","brand":"weikfield","price":35,"created_at":"2026-01-21T18:35:00Z"}
+{"id":"p0349","name":"Corn Flour","description":"Thickening agent 200g","category":"staples","brand":"weikfield","price":40,"created_at":"2026-01-21T18:40:00Z"}
+{"id":"p0350","name":"Rice Flour","description":"Fine ground rice powder 500g","category":"staples","brand":"fresho","price":45,"created_at":"2026-01-21T18:45:00Z"}
+{"id":"p0351","name":"Gram Flour","description":"Besan for pakoras 1kg","category":"staples","brand":"fortune","price":120,"created_at":"2026-01-21T18:50:00Z"}
+{"id":"p0352","name":"Buckwheat Flour","description":"Kuttu ka atta for fasting 500g","category":"staples","brand":"fresho","price":95,"created_at":"2026-01-21T18:55:00Z"}
+{"id":"p0353","name":"Water Chestnut Flour","description":"Singhare ka atta 500g","category":"staples","brand":"fresho","price":110,"created_at":"2026-01-21T19:00:00Z"}
+{"id":"p0354","name":"Semolina Fine","description":"Chiroti rava 500g","category":"staples","brand":"fresho","price":40,"created_at":"2026-01-21T19:05:00Z"}
+{"id":"p0355","name":"Vermicelli Long","description":"Roasted wheat sevai 400g","category":"staples","brand":"moms-magic","price":60,"created_at":"2026-01-21T19:10:00Z"}
+{"id":"p0356","name":"Instant Macaroni","description":"Durum wheat elbow pasta 500g","category":"staples","brand":"bambino","price":75,"created_at":"2026-01-21T19:15:00Z"}
+{"id":"p0357","name":"Whole Wheat Pasta","description":"Healthy penne 500g","category":"staples","brand":"del-monte","price":195,"created_at":"2026-01-21T19:20:00Z"}
+{"id":"p0358","name":"Quinoa Pasta","description":"Gluten free fusilli 250g","category":"staples","brand":"urban-platter","price":350,"created_at":"2026-01-21T19:25:00Z"}
+{"id":"p0359","name":"Soya Chunks","description":"High protein vegetarian meat 200g","category":"staples","brand":"fortune","price":55,"created_at":"2026-01-21T19:30:00Z"}
+{"id":"p0360","name":"Seitan","description":"Wheat gluten meat substitute 200g","category":"staples","brand":"urban-platter","price":299,"created_at":"2026-01-21T19:35:00Z"}
+{"id":"p0361","name":"Pork Sausages","description":"Classic smoked cocktail sausages","category":"meat","brand":"prasuma","price":395,"created_at":"2026-01-21T19:40:00Z"}
+{"id":"p0362","name":"Chicken Breast","description":"Boneless skinless fresh meat 500g","category":"meat","brand":"licious","price":280,"created_at":"2026-01-21T19:45:00Z"}
+{"id":"p0363","name":"Mutton Curry Cut","description":"Fresh lamb meat with bone 500g","category":"meat","brand":"licious","price":550,"created_at":"2026-01-21T19:50:00Z"}
+{"id":"p0364","name":"Bacon Strips","description":"Crispy honey smoked bacon 200g","category":"meat","brand":"prasuma","price":450,"created_at":"2026-01-21T19:55:00Z"}
+{"id":"p0365","name":"Raw Prawns","description":"Medium sized deveined 250g","category":"meat","brand":"licious","price":350,"created_at":"2026-01-21T20:00:00Z"}
+{"id":"p0366","name":"Basa Fillet","description":"Frozen white fish 500g","category":"meat","brand":"fresho-meats","price":320,"created_at":"2026-01-21T20:05:00Z"}
+{"id":"p0367","name":"Eggs Brown","description":"Free range organic eggs pack of 6","category":"dairy","brand":"egg-first","price":120,"created_at":"2026-01-21T20:10:00Z"}
+{"id":"p0368","name":"Quail Eggs","description":"Nutritious small eggs pack of 12","category":"dairy","brand":"fresho","price":90,"created_at":"2026-01-21T20:15:00Z"}
+{"id":"p0369","name":"Duck Eggs","description":"Large rich eggs pack of 6","category":"dairy","brand":"fresho","price":150,"created_at":"2026-01-21T20:20:00Z"}
+{"id":"p0370","name":"Butter Salted","description":"Premium cow butter 200g","category":"dairy","brand":"mother-dairy","price":115,"created_at":"2026-01-21T20:25:00Z"}
+{"id":"p0371","name":"Butter Unsalted","description":"Cooking butter for baking 200g","category":"dairy","brand":"amul","price":120,"created_at":"2026-01-21T20:30:00Z"}
+{"id":"p0372","name":"Peanut Butter Crunchy","description":"With real nut bits 340g","category":"snacks","brand":"pintola","price":225,"created_at":"2026-01-21T20:35:00Z"}
+{"id":"p0373","name":"Almond Butter","description":"Stone ground pure almond 200g","category":"snacks","brand":"the-butternut-co","price":550,"created_at":"2026-01-21T20:40:00Z"}
+{"id":"p0374","name":"Cashew Butter","description":"Creamy vegan spread 200g","category":"snacks","brand":"the-butternut-co","price":499,"created_at":"2026-01-21T20:45:00Z"}
+{"id":"p0375","name":"Maple Syrup","description":"100% pure organic syrup 250ml","category":"staples","brand":"urban-platter","price":850,"created_at":"2026-01-21T20:50:00Z"}
+{"id":"p0376","name":"Agave Nectar","description":"Natural low GI sweetener 250ml","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-21T20:55:00Z"}
+{"id":"p0377","name":"Stevia Drops","description":"Zero calorie liquid sweetener","category":"staples","brand":"sugar-free","price":299,"created_at":"2026-01-21T21:00:00Z"}
+{"id":"p0378","name":"Erythritol","description":"Natural sugar alcohol 500g","category":"staples","brand":"urban-platter","price":550,"created_at":"2026-01-21T21:05:00Z"}
+{"id":"p0379","name":"Coconut Sugar","description":"Unrefined palm sugar 250g","category":"staples","brand":"organic-india","price":195,"created_at":"2026-01-21T21:10:00Z"}
+{"id":"p0380","name":"Molasses","description":"Blackstrap unsulphured 400g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-21T21:15:00Z"}
+{"id":"p0381","name":"Matcha Green Tea","description":"Ceremonial grade powder 30g","category":"beverages","brand":"vadhani","price":999,"created_at":"2026-01-21T21:20:00Z"}
+{"id":"p0382","name":"Chamomile Tea","description":"Relaxing flower tea bags 20s","category":"beverages","brand":"te-a-me","price":250,"created_at":"2026-01-21T21:25:00Z"}
+{"id":"p0383","name":"Peppermint Tea","description":"Refreshing herbal tea bags 20s","category":"beverages","brand":"twinings","price":350,"created_at":"2026-01-21T21:30:00Z"}
+{"id":"p0384","name":"Earl Grey Tea","description":"Bergamot flavored black tea","category":"beverages","brand":"twinings","price":450,"created_at":"2026-01-21T21:35:00Z"}
+{"id":"p0385","name":"Assam Tea","description":"Golden tips loose tea 250g","category":"beverages","brand":"tata-tea","price":299,"created_at":"2026-01-21T21:40:00Z"}
+{"id":"p0386","name":"Darjeeling Tea","description":"First flush vintage tea 250g","category":"beverages","brand":"makaibari","price":650,"created_at":"2026-01-21T21:45:00Z"}
+{"id":"p0387","name":"Tulsi Ginger Tea","description":"Herbal immunity tea 25s","category":"beverages","brand":"organic-india","price":180,"created_at":"2026-01-21T21:50:00Z"}
+{"id":"p0388","name":"Hibiscus Tea","description":"Dried hibiscus flowers 50g","category":"beverages","brand":"urban-platter","price":250,"created_at":"2026-01-21T21:55:00Z"}
+{"id":"p0389","name":"Kombucha","description":"Fermented probiotic drink 330ml","category":"beverages","brand":"atmosphere","price":220,"created_at":"2026-01-21T22:00:00Z"}
+{"id":"p0390","name":"Sparkling Water","description":"Carbonated mineral water 500ml","category":"beverages","brand":"perrier","price":150,"created_at":"2026-01-21T22:05:00Z"}
+{"id":"p0391","name":"Tonic Water","description":"Classic quinine mixer 250ml","category":"beverages","brand":"schweppes","price":60,"created_at":"2026-01-21T22:10:00Z"}
+{"id":"p0392","name":"Ginger Ale","description":"Carbonated ginger drink 250ml","category":"beverages","brand":"schweppes","price":60,"created_at":"2026-01-21T22:15:00Z"}
+{"id":"p0393","name":"Coconut Water","description":"100% natural tender water 200ml","category":"beverages","brand":"raw-pressery","price":80,"created_at":"2026-01-21T22:20:00Z"}
+{"id":"p0394","name":"Aloe Vera Juice","description":"With pulp healthy drink 1L","category":"beverages","brand":"kapiva","price":299,"created_at":"2026-01-21T22:25:00Z"}
+{"id":"p0395","name":"Amla Juice","description":"Cold pressed detox drink 1L","category":"beverages","brand":"patanjali","price":120,"created_at":"2026-01-21T22:30:00Z"}
+{"id":"p0396","name":"Whey Protein","description":"Isolate vanilla flavor 1kg","category":"personal-care","brand":"myprotein","price":3200,"created_at":"2026-01-21T22:35:00Z"}
+{"id":"p0397","name":"Creatine Monohydrate","description":"Unflavored muscle supplement 250g","category":"personal-care","brand":"on","price":999,"created_at":"2026-01-21T22:40:00Z"}
+{"id":"p0398","name":"Fish Oil Softgels","description":"Omega-3 1000mg 60 caps","category":"personal-care","brand":"wow","price":650,"created_at":"2026-01-21T22:45:00Z"}
+{"id":"p0399","name":"BCAA","description":"Watermelon flavor recovery drink","category":"personal-care","brand":"scivation","price":1800,"created_at":"2026-01-21T22:50:00Z"}
+{"id":"p0400","name":"Multivitamin Women","description":"Daily wellness 60 tablets","category":"personal-care","brand":"swisse","price":1200,"created_at":"2026-01-21T22:55:00Z"}
+{"id":"p0401","name":"Organic Honey","description":"Raw unfiltered forest honey 500g","category":"staples","brand":"organic-india","price":450,"created_at":"2026-01-20T08:00:00Z"}
+{"id":"p0402","name":"Sorghum Flour","description":"Jowar ka atta 1kg","category":"staples","brand":"24-mantra","price":110,"created_at":"2026-01-20T08:05:00Z"}
+{"id":"p0403","name":"Pearl Millet Flour","description":"Bajra ka atta 1kg","category":"staples","brand":"fresho","price":90,"created_at":"2026-01-20T08:10:00Z"}
+{"id":"p0404","name":"Finger Millet Flour","description":"Ragi flour 1kg pack","category":"staples","brand":"tata-sampann","price":95,"created_at":"2026-01-20T08:15:00Z"}
+{"id":"p0405","name":"Aloo Tikki Frozen","description":"Spiced potato patties 400g","category":"frozen","brand":"mccain","price":160,"created_at":"2026-01-20T08:20:00Z"}
+{"id":"p0406","name":"Veg Pizza Frozen","description":"Cheese and corn 6 inch pizza","category":"frozen","brand":"go-cheese","price":199,"created_at":"2026-01-20T08:25:00Z"}
+{"id":"p0407","name":"Frozen Strawberries","description":"Whole berries for shakes 500g","category":"frozen","brand":"fresho","price":350,"created_at":"2026-01-20T08:30:00Z"}
+{"id":"p0408","name":"Frozen Raspberries","description":"Exotic berries 200g","category":"frozen","brand":"urban-platter","price":550,"created_at":"2026-01-20T08:35:00Z"}
+{"id":"p0409","name":"Shredded Mozzarella","description":"Pizza cheese blend 200g","category":"dairy","brand":"amul","price":180,"created_at":"2026-01-20T08:40:00Z"}
+{"id":"p0410","name":"Cream Cheese","description":"Soft spreadable cheese 180g","category":"dairy","brand":"britannia","price":210,"created_at":"2026-01-20T08:45:00Z"}
+{"id":"p0411","name":"Low Fat Curd","description":"Slim dahi 400g cup","category":"dairy","brand":"mother-dairy","price":45,"created_at":"2026-01-20T08:50:00Z"}
+{"id":"p0412","name":"Mishti Doi","description":"Traditional sweet yogurt 100g","category":"dairy","brand":"mother-dairy","price":30,"created_at":"2026-01-20T08:55:00Z"}
+{"id":"p0413","name":"Greek Yogurt Strawberry","description":"High protein yogurt 90g","category":"dairy","brand":"epigamia","price":65,"created_at":"2026-01-20T09:00:00Z"}
+{"id":"p0414","name":"Flavored Milk Chocolate","description":"Milkshake in bottle 200ml","category":"beverages","brand":"amul","price":35,"created_at":"2026-01-20T09:05:00Z"}
+{"id":"p0415","name":"Badam Milk","description":"Almond flavored beverage 200ml","category":"beverages","brand":"amul","price":35,"created_at":"2026-01-20T09:10:00Z"}
+{"id":"p0416","name":"Lassi Sweet","description":"Refreshing yogurt drink 250ml","category":"beverages","brand":"amul","price":25,"created_at":"2026-01-20T09:15:00Z"}
+{"id":"p0417","name":"Buttermilk Masala","description":"Spiced chaas 250ml","category":"beverages","brand":"mother-dairy","price":20,"created_at":"2026-01-20T09:20:00Z"}
+{"id":"p0418","name":"Iced Tea Lemon","description":"Ready to drink 250ml","category":"beverages","brand":"lipton","price":45,"created_at":"2026-01-20T09:25:00Z"}
+{"id":"p0419","name":"Cold Brew Coffee","description":"Black unsweetened coffee 200ml","category":"beverages","brand":"sleepy-owl","price":90,"created_at":"2026-01-20T09:30:00Z"}
+{"id":"p0420","name":"French Press Coffee","description":"Coarse ground beans 250g","category":"beverages","brand":"blue-tokai","price":450,"created_at":"2026-01-20T09:35:00Z"}
+{"id":"p0421","name":"Washing Machine Cleaner","description":"Descaling powder for tubs","category":"household","brand":"fortune","price":250,"created_at":"2026-01-20T09:40:00Z"}
+{"id":"p0422","name":"Fabric Stain Remover","description":"Pre-wash spray 200ml","category":"household","brand":"vanish","price":180,"created_at":"2026-01-20T09:45:00Z"}
+{"id":"p0423","name":"Shoe Polish Black","description":"Wax based shine 40g","category":"household","brand":"cherry-blossom","price":60,"created_at":"2026-01-20T09:50:00Z"}
+{"id":"p0424","name":"Leather Conditioner","description":"Cream for bags and shoes","category":"household","brand":"helio","price":350,"created_at":"2026-01-20T09:55:00Z"}
+{"id":"p0425","name":"Candle Wax","description":"Scented soy candle lavender","category":"household","brand":"miniso","price":299,"created_at":"2026-01-20T10:00:00Z"}
+{"id":"p0426","name":"Incense Sticks","description":"Sandalwood agarbatti 100 sticks","category":"household","brand":"cycle","price":150,"created_at":"2026-01-20T10:05:00Z"}
+{"id":"p0427","name":"Camphor Tablets","description":"Pure kapoor for puja 50g","category":"household","brand":"fresho","price":80,"created_at":"2026-01-20T10:10:00Z"}
+{"id":"p0428","name":"Cotton Wicks","description":"Round wicks for diya pack of 100","category":"household","brand":"fresho","price":50,"created_at":"2026-01-20T10:15:00Z"}
+{"id":"p0429","name":"Matchbox","description":"Safety matches pack of 10","category":"household","brand":"aim","price":20,"created_at":"2026-01-20T10:20:00Z"}
+{"id":"p0430","name":"LPG Lighter","description":"Piezoelectric gas igniter","category":"household","brand":"pigeon","price":180,"created_at":"2026-01-20T10:25:00Z"}
+{"id":"p0431","name":"Pet Shampoo","description":"Anti-itch for dogs 200ml","category":"pet-care","brand":"himalaya","price":250,"created_at":"2026-01-20T10:30:00Z"}
+{"id":"p0432","name":"Cat Litter","description":"Bentone clumping clay 5kg","category":"pet-care","brand":"trixie","price":650,"created_at":"2026-01-20T10:35:00Z"}
+{"id":"p0433","name":"Dog Leash","description":"Nylon padded handle 5ft","category":"pet-care","brand":"heads-up-for-tails","price":450,"created_at":"2026-01-20T10:40:00Z"}
+{"id":"p0434","name":"Cat Nip Toy","description":"Plush fish with catnip","category":"pet-care","brand":"trixie","price":299,"created_at":"2026-01-20T10:45:00Z"}
+{"id":"p0435","name":"Bird Food","description":"Mix seeds for budgies 500g","category":"pet-care","brand":"vitapol","price":280,"created_at":"2026-01-20T10:50:00Z"}
+{"id":"p0436","name":"Fish Food","description":"Flakes for tropical fish 50g","category":"pet-care","brand":"tetra-bits","price":195,"created_at":"2026-01-20T10:55:00Z"}
+{"id":"p0437","name":"Moisturizing Socks","description":"Gel lined spa socks","category":"personal-care","brand":"miniso","price":350,"created_at":"2026-01-20T11:00:00Z"}
+{"id":"p0438","name":"Eye Mask","description":"Satin sleep mask black","category":"personal-care","brand":"miniso","price":199,"created_at":"2026-01-20T11:05:00Z"}
+{"id":"p0439","name":"Ear Plugs","description":"Noise reduction foam 2 pairs","category":"personal-care","brand":"3m","price":120,"created_at":"2026-01-20T11:10:00Z"}
+{"id":"p0440","name":"Hand Sanitizer","description":"70% alcohol lemon spray","category":"personal-care","brand":"dettol","price":50,"created_at":"2026-01-20T11:15:00Z"}
+{"id":"p0441","name":"Wet Wipes Face","description":"Tea tree and neem 30s","category":"personal-care","brand":"kara","price":95,"created_at":"2026-01-20T11:20:00Z"}
+{"id":"p0442","name":"Cotton Pads","description":"Makeup remover rounds 50s","category":"personal-care","brand":"bella","price":110,"created_at":"2026-01-20T11:25:00Z"}
+{"id":"p0443","name":"Ear Buds","description":"Cotton swabs pack of 100","category":"personal-care","brand":"johnsons","price":65,"created_at":"2026-01-20T11:30:00Z"}
+{"id":"p0444","name":"Dental Floss","description":"Mint flavored waxed 50m","category":"personal-care","brand":"oral-b","price":150,"created_at":"2026-01-20T11:35:00Z"}
+{"id":"p0445","name":"Tongue Cleaner","description":"Stainless steel scraper","category":"personal-care","brand":"fresho","price":45,"created_at":"2026-01-20T11:40:00Z"}
+{"id":"p0446","name":"Body Scrub","description":"Coffee and sugar scrub 200g","category":"personal-care","brand":"mcaffeine","price":450,"created_at":"2026-01-20T11:45:00Z"}
+{"id":"p0447","name":"Hair Mask","description":"Argan oil deep conditioning 200ml","category":"personal-care","brand":"mamaearth","price":599,"created_at":"2026-01-20T11:50:00Z"}
+{"id":"p0448","name":"Face Serum","description":"Vitamin C skin brightening 30ml","category":"personal-care","brand":"the-derma-co","price":650,"created_at":"2026-01-20T11:55:00Z"}
+{"id":"p0449","name":"Beard Oil","description":"Growth and styling 30ml","category":"personal-care","brand":"ustraa","price":399,"created_at":"2026-01-20T12:00:00Z"}
+{"id":"p0450","name":"Hair Wax","description":"Matte finish strong hold 100g","category":"personal-care","brand":"beardo","price":350,"created_at":"2026-01-20T12:05:00Z"}
+{"id":"p0451","name":"Nail Polish Remover","description":"Acetone free wipes 30s","category":"personal-care","brand":"lakme","price":120,"created_at":"2026-01-20T12:10:00Z"}
+{"id":"p0452","name":"Kajal","description":"Long stay waterproof black","category":"personal-care","brand":"maybelline","price":250,"created_at":"2026-01-20T12:15:00Z"}
+{"id":"p0453","name":"Lip Balm","description":"Strawberry tint moisturizing","category":"personal-care","brand":"nivea","price":175,"created_at":"2026-01-20T12:20:00Z"}
+{"id":"p0454","name":"Hand Cream","description":"Shea butter repair 50ml","category":"personal-care","brand":"the-body-shop","price":450,"created_at":"2026-01-20T12:25:00Z"}
+{"id":"p0455","name":"Foot Cream","description":"Cracked heel repair 50g","category":"personal-care","brand":"himalaya","price":110,"created_at":"2026-01-20T12:30:00Z"}
+{"id":"p0456","name":"Anti-Chafing Cream","description":"For athletes and runners 50g","category":"personal-care","brand":"skin-elements","price":399,"created_at":"2026-01-20T12:35:00Z"}
+{"id":"p0457","name":"Maternity Pads","description":"Post-delivery high absorbency 10s","category":"personal-care","brand":"nobel","price":450,"created_at":"2026-01-20T12:40:00Z"}
+{"id":"p0458","name":"Tampons","description":"Regular with applicator 16s","category":"personal-care","brand":"tampax","price":350,"created_at":"2026-01-20T12:45:00Z"}
+{"id":"p0459","name":"Menstrual Cup","description":"Small size medical grade silicone","category":"personal-care","brand":"peesafe","price":599,"created_at":"2026-01-20T12:50:00Z"}
+{"id":"p0460","name":"Panty Liners","description":"Breathable daily liners 30s","category":"personal-care","brand":"carefree","price":180,"created_at":"2026-01-20T12:55:00Z"}
+{"id":"p0461","name":"Popcorn Kernels","description":"Raw maize for popping 500g","category":"snacks","brand":"fresho","price":85,"created_at":"2026-01-20T13:00:00Z"}
+{"id":"p0462","name":"Tapioca Chips","description":"Kerala style salted chips 200g","category":"snacks","brand":"fresho","price":120,"created_at":"2026-01-20T13:05:00Z"}
+{"id":"p0463","name":"Banana Chips","description":"Yellow chips fried in coconut oil","category":"snacks","brand":"fresho","price":110,"created_at":"2026-01-20T13:10:00Z"}
+{"id":"p0464","name":"Jackfruit Chips","description":"Crispy vacuum fried 150g","category":"snacks","brand":"beyond-snack","price":150,"created_at":"2026-01-20T13:15:00Z"}
+{"id":"p0465","name":"Khakhra Plain","description":"Whole wheat crispbread 200g","category":"snacks","brand":"fresho","price":75,"created_at":"2026-01-20T13:20:00Z"}
+{"id":"p0466","name":"Makhana Roasted","description":"Fox nuts pink salt flavor 100g","category":"snacks","brand":"farmley","price":199,"created_at":"2026-01-20T13:25:00Z"}
+{"id":"p0467","name":"Peanuts Roasted","description":"Salted skinless snack 200g","category":"snacks","brand":"haldirams","price":90,"created_at":"2026-01-20T13:30:00Z"}
+{"id":"p0468","name":"Chana Jor Garam","description":"Flattened spicy chickpeas 200g","category":"snacks","brand":"haldirams","price":80,"created_at":"2026-01-20T13:35:00Z"}
+{"id":"p0469","name":"Diet Murmura","description":"Roasted puffed rice snack 200g","category":"snacks","brand":"haldirams","price":65,"created_at":"2026-01-20T13:40:00Z"}
+{"id":"p0470","name":"Moong Dal Snack","description":"Crispy fried yellow lentils 200g","category":"snacks","brand":"haldirams","price":75,"created_at":"2026-01-20T13:45:00Z"}
+{"id":"p0471","name":"Soy Sticks","description":"Spicy high protein snack 150g","category":"snacks","brand":"haldirams","price":85,"created_at":"2026-01-20T13:50:00Z"}
+{"id":"p0472","name":"Gathiya","description":"Traditional Gujarati gram flour snack","category":"snacks","brand":"bikano","price":70,"created_at":"2026-01-20T13:55:00Z"}
+{"id":"p0473","name":"Khatta Meetha","description":"Sweet and sour pulse mix 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-20T14:00:00Z"}
+{"id":"p0474","name":"Navratan Mixture","description":"9 ingredient spicy mix 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-20T14:05:00Z"}
+{"id":"p0475","name":"Cornflakes Mixture","description":"Spicy breakfast cornflake snack","category":"snacks","brand":"bikaji","price":105,"created_at":"2026-01-20T14:10:00Z"}
+{"id":"p0476","name":"Instant Soup Tomato","description":"Cup-a-soup sachets 10s","category":"snacks","brand":"knorr","price":120,"created_at":"2026-01-20T14:15:00Z"}
+{"id":"p0477","name":"Veg Broth Cubes","description":"Seasoning for soups 6 units","category":"staples","brand":"maggi","price":60,"created_at":"2026-01-20T14:20:00Z"}
+{"id":"p0478","name":"Pasta Sauce Arrabiata","description":"Spicy tomato sauce jar 350g","category":"staples","brand":"barilla","price":350,"created_at":"2026-01-20T14:25:00Z"}
+{"id":"p0479","name":"Pesto Sauce","description":"Basil and pine nut paste 190g","category":"staples","brand":"barilla","price":499,"created_at":"2026-01-20T14:30:00Z"}
+{"id":"p0480","name":"Truffle Oil","description":"Black truffle infused olive oil 100ml","category":"staples","brand":"urban-platter","price":1200,"created_at":"2026-01-20T14:35:00Z"}
+{"id":"p0481","name":"Organic Ghee","description":"A2 cow ghee hand churned 500ml","category":"dairy","brand":"kapiva","price":1500,"created_at":"2026-01-20T14:40:00Z"}
+{"id":"p0482","name":"Brown Sugar","description":"Unrefined cane sugar 1kg","category":"staples","brand":"tata-sampann","price":135,"created_at":"2026-01-20T14:45:00Z"}
+{"id":"p0483","name":"Palm Jaggery","description":"Karupatti blocks 500g","category":"staples","brand":"fresho","price":220,"created_at":"2026-01-20T14:50:00Z"}
+{"id":"p0484","name":"Pink Peppercorns","description":"Gourmet whole peppercorns 50g","category":"staples","brand":"urban-platter","price":350,"created_at":"2026-01-20T14:55:00Z"}
+{"id":"p0485","name":"Smoked Paprika","description":"Spanish style spice powder 50g","category":"staples","brand":"urban-platter","price":299,"created_at":"2026-01-20T15:00:00Z"}
+{"id":"p0486","name":"Dried Oregano","description":"Herb seasoning sprinkler 50g","category":"staples","brand":"snapin","price":99,"created_at":"2026-01-20T15:05:00Z"}
+{"id":"p0487","name":"Chili Flakes","description":"Red pepper flakes sprinkler 50g","category":"staples","brand":"snapin","price":99,"created_at":"2026-01-20T15:10:00Z"}
+{"id":"p0488","name":"Mixed Herbs","description":"Mediterranean herb blend 50g","category":"staples","brand":"snapin","price":110,"created_at":"2026-01-20T15:15:00Z"}
+{"id":"p0489","name":"Peri Peri Masala","description":"Spicy seasoning for fries 50g","category":"staples","brand":"snapin","price":120,"created_at":"2026-01-20T15:20:00Z"}
+{"id":"p0490","name":"Garlic Powder","description":"Dehydrated garlic spice 50g","category":"staples","brand":"urban-platter","price":150,"created_at":"2026-01-20T15:25:00Z"}
+{"id":"p0491","name":"Onion Powder","description":"Gourmet cooking spice 50g","category":"staples","brand":"urban-platter","price":150,"created_at":"2026-01-20T15:30:00Z"}
+{"id":"p0492","name":"Nutritional Yeast","description":"Vegan cheese substitute 100g","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-20T15:35:00Z"}
+{"id":"p0493","name":"Agar Agar","description":"Vegan gelatin powder 50g","category":"staples","brand":"urban-platter","price":250,"created_at":"2026-01-20T15:40:00Z"}
+{"id":"p0494","name":"Balsamic Vinegar","description":"Modena balsamic glaze 250ml","category":"staples","brand":"borges","price":499,"created_at":"2026-01-20T15:45:00Z"}
+{"id":"p0495","name":"White Wine Vinegar","description":"Salad dressing vinegar 500ml","category":"staples","brand":"borges","price":350,"created_at":"2026-01-20T15:50:00Z"}
+{"id":"p0496","name":"Rice Wine Vinegar","description":"For sushi and asian salads 250ml","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-20T15:55:00Z"}
+{"id":"p0497","name":"Panko Breadcrumbs","description":"Japanese style flaky crumbs 200g","category":"staples","brand":"urban-platter","price":199,"created_at":"2026-01-20T16:00:00Z"}
+{"id":"p0498","name":"Tahini Paste","description":"Roasted sesame paste for hummus","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-20T16:05:00Z"}
+{"id":"p0499","name":"Chickpeas Canned","description":"Boiled kabuli chana 400g","category":"staples","brand":"neo","price":110,"created_at":"2026-01-20T16:10:00Z"}
+{"id":"p0500","name":"Red Kidney Beans Canned","description":"Boiled rajma 400g","category":"staples","brand":"neo","price":110,"created_at":"2026-01-20T16:15:00Z"}
+{"id":"p0501","name":"A4 Copier Paper","description":"80 GSM 500 sheets ream","category":"office","brand":"jk-paper","price":380,"created_at":"2026-01-20T16:20:00Z"}
+{"id":"p0502","name":"Blue Ball Pen","description":"Pressure-free writing pack of 10","category":"office","brand":"cello","price":100,"created_at":"2026-01-20T16:25:00Z"}
+{"id":"p0503","name":"Gel Pen Black","description":"Waterproof ink pack of 5","category":"office","brand":"uniball","price":300,"created_at":"2026-01-20T16:30:00Z"}
+{"id":"p0504","name":"Permanent Marker","description":"Black ink bullet tip","category":"office","brand":"luxor","price":30,"created_at":"2026-01-20T16:35:00Z"}
+{"id":"p0505","name":"Highlighter Set","description":"Neon colors pack of 5","category":"office","brand":"faber-castell","price":125,"created_at":"2026-01-20T16:40:00Z"}
+{"id":"p0506","name":"Sticky Notes","description":"3x3 inch yellow pads 100 sheets","category":"office","brand":"3m","price":85,"created_at":"2026-01-20T16:45:00Z"}
+{"id":"p0507","name":"Stapler No.10","description":"Standard office stapler","category":"office","brand":"kangaro","price":65,"created_at":"2026-01-20T16:50:00Z"}
+{"id":"p0508","name":"Staple Pins","description":"No.10 box of 1000 pins","category":"office","brand":"kangaro","price":15,"created_at":"2026-01-20T16:55:00Z"}
+{"id":"p0509","name":"Clear Tape","description":"1 inch width 50m roll","category":"office","brand":"scotch","price":45,"created_at":"2026-01-20T17:00:00Z"}
+{"id":"p0510","name":"Glue Stick","description":"Non-toxic 15g stick","category":"office","brand":"fevistick","price":40,"created_at":"2026-01-20T17:05:00Z"}
+{"id":"p0511","name":"Spiral Notebook","description":"A5 size 200 pages ruled","category":"office","brand":"classmate","price":120,"created_at":"2026-01-20T17:10:00Z"}
+{"id":"p0512","name":"Calculator","description":"12 digit basic desktop model","category":"office","brand":"casio","price":550,"created_at":"2026-01-20T17:15:00Z"}
+{"id":"p0513","name":"Scissors","description":"Stainless steel multi-purpose","category":"office","brand":"munix","price":180,"created_at":"2026-01-20T17:20:00Z"}
+{"id":"p0514","name":"File Folder","description":"L-type transparent pack of 10","category":"office","brand":"solo","price":150,"created_at":"2026-01-20T17:25:00Z"}
+{"id":"p0515","name":"Whiteboard Marker","description":"Refillable black ink","category":"office","brand":"camlin","price":35,"created_at":"2026-01-20T17:30:00Z"}
+{"id":"p0516","name":"Corrector Pen","description":"Quick dry fluid 7ml","category":"office","brand":"kores","price":45,"created_at":"2026-01-20T17:35:00Z"}
+{"id":"p0517","name":"Dustbin Small","description":"Plastic swing lid for desk","category":"office","brand":"cello","price":250,"created_at":"2026-01-20T17:40:00Z"}
+{"id":"p0518","name":"Paper Clips","description":"Vinyl coated assorted colors 100s","category":"office","brand":"solo","price":60,"created_at":"2026-01-20T17:45:00Z"}
+{"id":"p0519","name":"Cutter Knife","description":"Small snap-off blade","category":"office","brand":"sd","price":25,"created_at":"2026-01-20T17:50:00Z"}
+{"id":"p0520","name":"Desk Organizer","description":"Plastic mesh 3 compartment","category":"office","brand":"solo","price":350,"created_at":"2026-01-20T17:55:00Z"}
+{"id":"p0521","name":"Vegetable Chopper","description":"Manual string pull 3 blades","category":"appliances","brand":"pigeon","price":499,"created_at":"2026-01-20T18:00:00Z"}
+{"id":"p0522","name":"Hand Blender","description":"Electric 300W with whisk","category":"appliances","brand":"philips","price":2400,"created_at":"2026-01-20T18:05:00Z"}
+{"id":"p0523","name":"Pop-up Toaster","description":"2 slice auto shut-off","category":"appliances","brand":"morphy-richards","price":1850,"created_at":"2026-01-20T18:10:00Z"}
+{"id":"p0524","name":"Induction Cooktop","description":"2000W glass touch panel","category":"appliances","brand":"prestige","price":3200,"created_at":"2026-01-20T18:15:00Z"}
+{"id":"p0525","name":"Kitchen Scale","description":"Digital 10kg max weight","category":"appliances","brand":"health-sense","price":899,"created_at":"2026-01-20T18:20:00Z"}
+{"id":"p0526","name":"Silicone Spatula","description":"Heat resistant non-stick","category":"household","brand":"wonderchef","price":299,"created_at":"2026-01-20T18:25:00Z"}
+{"id":"p0527","name":"Measuring Cups","description":"Stainless steel 8 piece set","category":"household","brand":"borosil","price":650,"created_at":"2026-01-20T18:30:00Z"}
+{"id":"p0528","name":"Grater & Slicer","description":"Box style 4 sided stainless steel","category":"household","brand":"prestige","price":450,"created_at":"2026-01-20T18:35:00Z"}
+{"id":"p0529","name":"Colander","description":"Plastic mesh strainer 2L","category":"household","brand":"fresho","price":120,"created_at":"2026-01-20T18:40:00Z"}
+{"id":"p0530","name":"Knife Set","description":"Kitchen knife, paring & peeler","category":"household","brand":"victorinox","price":1200,"created_at":"2026-01-20T18:45:00Z"}
+{"id":"p0531","name":"Baby Laundry Detergent","description":"Chemical free liquid 1L","category":"baby-care","brand":"pigeon","price":450,"created_at":"2026-01-20T18:50:00Z"}
+{"id":"p0532","name":"Baby Bottle Wash","description":"Plant based liquid 500ml","category":"baby-care","brand":"himalaya","price":299,"created_at":"2026-01-20T18:55:00Z"}
+{"id":"p0533","name":"Baby Massage Oil","description":"Cold pressed sesame 200ml","category":"baby-care","brand":"forest-essentials","price":950,"created_at":"2026-01-20T19:00:00Z"}
+{"id":"p0534","name":"Diaper Rash Cream","description":"Zinc oxide based 50g","category":"baby-care","brand":"sebamed","price":499,"created_at":"2026-01-20T19:05:00Z"}
+{"id":"p0535","name":"Nappy Liners","description":"Biodegradable bamboo 100s","category":"baby-care","brand":"superbottoms","price":350,"created_at":"2026-01-20T19:10:00Z"}
+{"id":"p0536","name":"Baby Grooming Kit","description":"Cutter, comb and nasal aspirator","category":"baby-care","brand":"philips-avent","price":1800,"created_at":"2026-01-20T19:15:00Z"}
+{"id":"p0537","name":"Feeding Bottle","description":"Anti-colic 260ml","category":"baby-care","brand":"philips-avent","price":550,"created_at":"2026-01-20T19:20:00Z"}
+{"id":"p0538","name":"Pacifier","description":"Silicone orthodontic 0-6m","category":"baby-care","brand":"pigeon","price":250,"created_at":"2026-01-20T19:25:00Z"}
+{"id":"p0539","name":"Sippy Cup","description":"Spill proof with handles","category":"baby-care","brand":"munchkin","price":850,"created_at":"2026-01-20T19:30:00Z"}
+{"id":"p0540","name":"Baby Sunscreen","description":"SPF 30 mineral based 50ml","category":"baby-care","brand":"mamaearth","price":399,"created_at":"2026-01-20T19:35:00Z"}
+{"id":"p0541","name":"Thai Red Curry Paste","description":"Authentic spice blend 50g","category":"staples","brand":"real-thai","price":150,"created_at":"2026-01-20T19:40:00Z"}
+{"id":"p0542","name":"Coconut Cream","description":"Rich UHT cream 250ml","category":"staples","brand":"real-thai","price":180,"created_at":"2026-01-20T19:45:00Z"}
+{"id":"p0543","name":"Rice Paper Sheets","description":"For spring rolls pack of 20","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-20T19:50:00Z"}
+{"id":"p0544","name":"Seaweed Snacks","description":"Roasted nori sheets pack of 3","category":"snacks","brand":"urban-platter","price":299,"created_at":"2026-01-20T19:55:00Z"}
+{"id":"p0545","name":"Sushi Rice","description":"Short grain sticky rice 1kg","category":"staples","brand":"urban-platter","price":499,"created_at":"2026-01-20T20:00:00Z"}
+{"id":"p0546","name":"Wasabi Paste","description":"Spicy horseradish tube 43g","category":"staples","brand":"s&b","price":350,"created_at":"2026-01-20T20:05:00Z"}
+{"id":"p0547","name":"Pickled Ginger","description":"Gari for sushi jar 200g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-20T20:10:00Z"}
+{"id":"p0548","name":"Udon Noodles","description":"Thick wheat noodles 200g","category":"staples","brand":"itsuki","price":180,"created_at":"2026-01-20T20:15:00Z"}
+{"id":"p0549","name":"Ramen Noodles","description":"Japanese instant ramen bowl","category":"snacks","brand":"nongshim","price":150,"created_at":"2026-01-20T20:20:00Z"}
+{"id":"p0550","name":"Miso Paste","description":"Fermented soybean paste 200g","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-20T20:25:00Z"}
+{"id":"p0551","name":"Hand Wash Lavender","description":"Essential oil based refill 1L","category":"personal-care","brand":"itc-nimyle","price":199,"created_at":"2026-01-20T20:30:00Z"}
+{"id":"p0552","name":"Toilet Cleaner Rose","description":"Disinfectant liquid 1L","category":"household","brand":"harpic","price":185,"created_at":"2026-01-20T20:35:00Z"}
+{"id":"p0553","name":"Bathroom Tiles Cleaner","description":"Removes hard water stains","category":"household","brand":"cif","price":220,"created_at":"2026-01-20T20:40:00Z"}
+{"id":"p0554","name":"Drain Opener","description":"Clog remover powder 50g","category":"household","brand":"kiwi-drano","price":40,"created_at":"2026-01-20T20:45:00Z"}
+{"id":"p0555","name":"Silver Shine","description":"Polish for ornaments 50ml","category":"household","brand":"silvo","price":120,"created_at":"2026-01-20T20:50:00Z"}
+{"id":"p0556","name":"Copper Cleaner","description":"Pitambari powder 100g","category":"household","brand":"pitambari","price":55,"created_at":"2026-01-20T20:55:00Z"}
+{"id":"p0557","name":"Wood Polish","description":"Furniture wax spray 250ml","category":"household","brand":"pledge","price":350,"created_at":"2026-01-20T21:00:00Z"}
+{"id":"p0558","name":"Microfiber Cloth","description":"General purpose cleaning 40x40cm","category":"household","brand":"scotch-brite","price":150,"created_at":"2026-01-20T21:05:00Z"}
+{"id":"p0559","name":"Rubber Gloves","description":"Reusable dishwashing gloves","category":"household","brand":"fresho","price":99,"created_at":"2026-01-20T21:10:00Z"}
+{"id":"p0560","name":"Bottle Brush","description":"Long handle silicone brush","category":"household","brand":"fresho","price":180,"created_at":"2026-01-20T21:15:00Z"}
+{"id":"p0561","name":"Dog Kibble Puppy","description":"High protein chicken 3kg","category":"pet-care","brand":"pedigree","price":850,"created_at":"2026-01-20T21:20:00Z"}
+{"id":"p0562","name":"Wet Cat Food","description":"Tuna in jelly pouch 85g","category":"pet-care","brand":"sheba","price":65,"created_at":"2026-01-20T21:25:00Z"}
+{"id":"p0563","name":"Dog Dental Chews","description":"Breath freshener sticks 7s","category":"pet-care","brand":"pedigree","price":220,"created_at":"2026-01-20T21:30:00Z"}
+{"id":"p0564","name":"Cat Litter Scoop","description":"Slotted plastic scoop","category":"pet-care","brand":"trixie","price":120,"created_at":"2026-01-20T21:35:00Z"}
+{"id":"p0565","name":"Pet Grooming Brush","description":"Self-cleaning slicker brush","category":"pet-care","brand":"heads-up-for-tails","price":550,"created_at":"2026-01-20T21:40:00Z"}
+{"id":"p0566","name":"Aquarium Conditioner","description":"Dechlorinator liquid 100ml","category":"pet-care","brand":"api","price":450,"created_at":"2026-01-20T21:45:00Z"}
+{"id":"p0567","name":"Hamster Food","description":"Mixed grains and nuts 500g","category":"pet-care","brand":"vitapol","price":320,"created_at":"2026-01-20T21:50:00Z"}
+{"id":"p0568","name":"Rabbit Hay","description":"Timothy hay compressed 1kg","category":"pet-care","brand":"zupreem","price":850,"created_at":"2026-01-20T21:55:00Z"}
+{"id":"p0569","name":"Pet Paw Balm","description":"Natural wax for cracked paws","category":"pet-care","brand":"captain-zack","price":399,"created_at":"2026-01-20T22:00:00Z"}
+{"id":"p0570","name":"Tick & Flea Spray","description":"Herbal repellent 200ml","category":"pet-care","brand":"himalaya","price":299,"created_at":"2026-01-20T22:05:00Z"}
+{"id":"p0571","name":"Basmati Rice 1121","description":"Long grain aged rice 5kg","category":"staples","brand":"india-gate","price":850,"created_at":"2026-01-20T22:10:00Z"}
+{"id":"p0572","name":"Kolam Rice","description":"Daily use rice 5kg","category":"staples","brand":"fresho","price":380,"created_at":"2026-01-20T22:15:00Z"}
+{"id":"p0573","name":"Sona Masuri Rice","description":"Unpolished healthy rice 5kg","category":"staples","brand":"24-mantra","price":450,"created_at":"2026-01-20T22:20:00Z"}
+{"id":"p0574","name":"Idli Rice","description":"Short fat rice for batter 5kg","category":"staples","brand":"fresho","price":320,"created_at":"2026-01-20T22:25:00Z"}
+{"id":"p0575","name":"Brown Poha","description":"Red rice flattened flakes 500g","category":"staples","brand":"24-mantra","price":75,"created_at":"2026-01-20T22:30:00Z"}
+{"id":"p0576","name":"Sabudana Large","description":"Sago pearls for khichdi 500g","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-20T22:35:00Z"}
+{"id":"p0577","name":"Makhana Raw","description":"Phool makhana 200g","category":"staples","brand":"fresho","price":250,"created_at":"2026-01-20T22:40:00Z"}
+{"id":"p0578","name":"Whole Wheat Daliya","description":"Broken wheat cereal 500g","category":"staples","brand":"fortune","price":45,"created_at":"2026-01-20T22:45:00Z"}
+{"id":"p0579","name":"Roasted Gram","description":"Bhuna chana with skin 200g","category":"staples","brand":"fresho","price":65,"created_at":"2026-01-20T22:50:00Z"}
+{"id":"p0580","name":"Peanuts Raw","description":"Groundnuts with red skin 500g","category":"staples","brand":"fresho","price":110,"created_at":"2026-01-20T22:55:00Z"}
+{"id":"p0581","name":"Organic Cold Pressed Coconut Oil","description":"Virgin edible oil 500ml","category":"staples","brand":"maxcare","price":399,"created_at":"2026-01-19T08:00:00Z"}
+{"id":"p0582","name":"Sesame Oil","description":"Til oil for cooking 1L","category":"staples","brand":"idayam","price":450,"created_at":"2026-01-19T08:05:00Z"}
+{"id":"p0583","name":"Rice Bran Oil","description":"Heart healthy oil 1L pouch","category":"staples","brand":"fortune","price":165,"created_at":"2026-01-19T08:10:00Z"}
+{"id":"p0584","name":"Groundnut Oil","description":"Filtered peanut oil 1L","category":"staples","brand":"fortune","price":195,"created_at":"2026-01-19T08:15:00Z"}
+{"id":"p0585","name":"Vanaspati Ghee","description":"Vegetable fat 1kg pouch","category":"staples","brand":"dalda","price":150,"created_at":"2026-01-19T08:20:00Z"}
+{"id":"p0586","name":"Table Salt","description":"Iodized crystal salt 1kg","category":"staples","brand":"tata-salt","price":28,"created_at":"2026-01-19T08:25:00Z"}
+{"id":"p0587","name":"Black Salt Powder","description":"Kala namak 100g","category":"staples","brand":"catch","price":25,"created_at":"2026-01-19T08:30:00Z"}
+{"id":"p0588","name":"Chili Powder","description":"Lal mirch teekhalal 200g","category":"staples","brand":"everest","price":120,"created_at":"2026-01-19T08:35:00Z"}
+{"id":"p0589","name":"Coriander Powder","description":"Dhania powder 200g","category":"staples","brand":"everest","price":85,"created_at":"2026-01-19T08:40:00Z"}
+{"id":"p0590","name":"Garam Masala","description":"Whole spice blend 100g","category":"staples","brand":"tata-sampann","price":95,"created_at":"2026-01-19T08:45:00Z"}
+{"id":"p0591","name":"Chicken Masala","description":"Meat seasoning mix 100g","category":"staples","brand":"everest","price":80,"created_at":"2026-01-19T08:50:00Z"}
+{"id":"p0592","name":"Sambar Powder","description":"South Indian spice mix 100g","category":"staples","brand":"mtr","price":75,"created_at":"2026-01-19T08:55:00Z"}
+{"id":"p0593","name":"Pav Bhaji Masala","description":"Street food spice mix 100g","category":"staples","brand":"everest","price":78,"created_at":"2026-01-19T09:00:00Z"}
+{"id":"p0594","name":"Biryani Masala","description":"Hyderabadi style blend 50g","category":"staples","brand":"kohinoor","price":65,"created_at":"2026-01-19T09:05:00Z"}
+{"id":"p0595","name":"Kasturi Methi","description":"Dried fenugreek leaves 25g","category":"staples","brand":"everest","price":40,"created_at":"2026-01-19T09:10:00Z"}
+{"id":"p0596","name":"Dry Ginger Powder","description":"Sonth powder 100g","category":"staples","brand":"catch","price":90,"created_at":"2026-01-19T09:15:00Z"}
+{"id":"p0597","name":"Asafoetida","description":"Strong Hing powder 50g","category":"staples","brand":"lg","price":115,"created_at":"2026-01-19T09:20:00Z"}
+{"id":"p0598","name":"Mustard Seeds","description":"Rai whole 100g","category":"staples","brand":"fresho","price":35,"created_at":"2026-01-19T09:25:00Z"}
+{"id":"p0599","name":"Fennel Seeds","description":"Saunf whole 100g","category":"staples","brand":"catch","price":70,"created_at":"2026-01-19T09:30:00Z"}
+{"id":"p0600","name":"Carom Seeds","description":"Ajwain whole 100g","category":"staples","brand":"everest","price":85,"created_at":"2026-01-19T09:35:00Z"}
+{"id":"p0601","name":"Kitchen Towel Roll","description":"2-ply absorbent paper 4 rolls","category":"household","brand":"selpak","price":280,"created_at":"2026-01-19T09:40:00Z"}
+{"id":"p0602","name":"Paper Napkins","description":"Soft white tissues 100s","category":"household","brand":"origami","price":65,"created_at":"2026-01-19T09:45:00Z"}
+{"id":"p0603","name":"Toilet Paper Roll","description":"3-ply extra soft 6 rolls","category":"household","brand":"selpak","price":350,"created_at":"2026-01-19T09:50:00Z"}
+{"id":"p0604","name":"Wet Floor Wipes","description":"Lemon scent disinfectant 20s","category":"household","brand":"clorox","price":399,"created_at":"2026-01-19T09:55:00Z"}
+{"id":"p0605","name":"Air Freshener Spray","description":"Sandalwood & jasmine 300ml","category":"household","brand":"air-wick","price":199,"created_at":"2026-01-19T10:00:00Z"}
+{"id":"p0606","name":"Automatic Room Spray Refill","description":"Lavender breeze 250ml","category":"household","brand":"glade","price":299,"created_at":"2026-01-19T10:05:00Z"}
+{"id":"p0607","name":"Odor Neutralizer","description":"Charcoal bag for fridge","category":"household","brand":"fresho","price":250,"created_at":"2026-01-19T10:10:00Z"}
+{"id":"p0608","name":"Bathroom Scent Gel","description":"Floral passion 75g","category":"household","brand":"odonil","price":75,"created_at":"2026-01-19T10:15:00Z"}
+{"id":"p0609","name":"Laundry Mesh Bag","description":"For delicate clothes set of 2","category":"household","brand":"fresho","price":299,"created_at":"2026-01-19T10:20:00Z"}
+{"id":"p0610","name":"Clothespins","description":"Plastic clips pack of 12","category":"household","brand":"fresho","price":85,"created_at":"2026-01-19T10:25:00Z"}
+{"id":"p0611","name":"Organic Quinoa White","description":"Whole grain superfood 500g","category":"staples","brand":"true-elements","price":350,"created_at":"2026-01-19T10:30:00Z"}
+{"id":"p0612","name":"Amaranth Seeds","description":"Rajgira whole 500g","category":"staples","brand":"24-mantra","price":120,"created_at":"2026-01-19T10:35:00Z"}
+{"id":"p0613","name":"Buckwheat Groats","description":"Gluten free kuttu 500g","category":"staples","brand":"urban-platter","price":250,"created_at":"2026-01-19T10:40:00Z"}
+{"id":"p0614","name":"Millet Mix","description":"Multi-millet breakfast porridge","category":"staples","brand":"slurrp-farm","price":299,"created_at":"2026-01-19T10:45:00Z"}
+{"id":"p0615","name":"Pearl Barley","description":"Jau whole 500g","category":"staples","brand":"fresho","price":65,"created_at":"2026-01-19T10:50:00Z"}
+{"id":"p0616","name":"Steel Cut Oats","description":"Non-processed breakfast oats 1kg","category":"staples","brand":"bagrrys","price":280,"created_at":"2026-01-19T10:55:00Z"}
+{"id":"p0617","name":"Instant Oats","description":"Quick cooking oats 1kg","category":"staples","brand":"quaker","price":199,"created_at":"2026-01-19T11:00:00Z"}
+{"id":"p0618","name":"Granola Chocolate","description":"Baked oats with dark chocolate","category":"snacks","brand":"yogabar","price":450,"created_at":"2026-01-19T11:05:00Z"}
+{"id":"p0619","name":"Wheat Bran","description":"Fiber supplement for atta 200g","category":"staples","brand":"fresho","price":45,"created_at":"2026-01-19T11:10:00Z"}
+{"id":"p0620","name":"Wheat Germ","description":"Nutrient dense topping 200g","category":"staples","brand":"urban-platter","price":199,"created_at":"2026-01-19T11:15:00Z"}
+{"id":"p0621","name":"Liquid Foundation","description":"Matte finish 30ml","category":"personal-care","brand":"maybelline","price":650,"created_at":"2026-01-19T11:20:00Z"}
+{"id":"p0622","name":"Compact Powder","description":"Sun protection SPF 20","category":"personal-care","brand":"lakme","price":250,"created_at":"2026-01-19T11:25:00Z"}
+{"id":"p0623","name":"Eyeliner Pen","description":"Sketch eyeliner waterproof","category":"personal-care","brand":"faces-canada","price":499,"created_at":"2026-01-19T11:30:00Z"}
+{"id":"p0624","name":"Mascara","description":"Volumizing washable black","category":"personal-care","brand":"maybelline","price":399,"created_at":"2026-01-19T11:35:00Z"}
+{"id":"p0625","name":"Lipstick Matte","description":"Nude shade long stay","category":"personal-care","brand":"sugar-cosmetics","price":799,"created_at":"2026-01-19T11:40:00Z"}
+{"id":"p0626","name":"Eyeshadow Palette","description":"9 color earth tones","category":"personal-care","brand":"swiss-beauty","price":550,"created_at":"2026-01-19T11:45:00Z"}
+{"id":"p0627","name":"Makeup Setting Spray","description":"Long lasting fix 50ml","category":"personal-care","brand":"faces-canada","price":650,"created_at":"2026-01-19T11:50:00Z"}
+{"id":"p0628","name":"Micellar Water","description":"Makeup remover 125ml","category":"personal-care","brand":"garnier","price":225,"created_at":"2026-01-19T11:55:00Z"}
+{"id":"p0629","name":"Sheet Mask","description":"Hyaluronic acid hydrating","category":"personal-care","brand":"the-face-shop","price":100,"created_at":"2026-01-19T12:00:00Z"}
+{"id":"p0630","name":"Nail Lacquer","description":"Chip resistant red","category":"personal-care","brand":"colorbar","price":199,"created_at":"2026-01-19T12:05:00Z"}
+{"id":"p0631","name":"Frozen Corn Nuggets","description":"Crispy snack 400g","category":"frozen","brand":"mccain","price":190,"created_at":"2026-01-19T12:10:00Z"}
+{"id":"p0632","name":"Frozen Cheese Balls","description":"Jalapeno and cheese 250g","category":"frozen","brand":"prasuma","price":250,"created_at":"2026-01-19T12:15:00Z"}
+{"id":"p0633","name":"Frozen Chicken Seekh Kebab","description":"Ready to grill 250g","category":"frozen","brand":"venkys","price":299,"created_at":"2026-01-19T12:20:00Z"}
+{"id":"p0634","name":"Frozen Veg Burger Patty","description":"Pack of 4 patties","category":"frozen","brand":"mccain","price":170,"created_at":"2026-01-19T12:25:00Z"}
+{"id":"p0635","name":"Frozen Spring Rolls","description":"Veg stuffed rolls 10s","category":"frozen","brand":"fresho","price":220,"created_at":"2026-01-19T12:30:00Z"}
+{"id":"p0636","name":"Frozen Momos","description":"Veg steamed momos with chutney","category":"frozen","brand":"prasuma","price":299,"created_at":"2026-01-19T12:35:00Z"}
+{"id":"p0637","name":"Frozen Garlic Bread Sticks","description":"Ready to bake 200g","category":"frozen","brand":"fresho","price":150,"created_at":"2026-01-19T12:40:00Z"}
+{"id":"p0638","name":"Frozen Pizza Cheese","description":"Mozzarella cubes for toppings","category":"frozen","brand":"go-cheese","price":240,"created_at":"2026-01-19T12:45:00Z"}
+{"id":"p0639","name":"Frozen Blueberries","description":"Wild blueberries for baking 200g","category":"frozen","brand":"urban-platter","price":450,"created_at":"2026-01-19T12:50:00Z"}
+{"id":"p0640","name":"Frozen Edamame","description":"Soya beans in pod 250g","category":"frozen","brand":"urban-platter","price":350,"created_at":"2026-01-19T12:55:00Z"}
+{"id":"p0641","name":"Dark Chocolate 70%","description":"Single origin cocoa 80g","category":"snacks","brand":"amul","price":120,"created_at":"2026-01-19T13:00:00Z"}
+{"id":"p0642","name":"Milk Chocolate","description":"Classic smooth milk 80g","category":"snacks","brand":"cadbury","price":80,"created_at":"2026-01-19T13:05:00Z"}
+{"id":"p0643","name":"White Chocolate Bar","description":"Creamy cocoa butter bar","category":"snacks","brand":"milkybar","price":45,"created_at":"2026-01-19T13:10:00Z"}
+{"id":"p0644","name":"Chocolate Truffles","description":"Assorted box of 12","category":"snacks","brand":"fabelle","price":750,"created_at":"2026-01-19T13:15:00Z"}
+{"id":"p0645","name":"Caramel Popcorn","description":"Gourmet style tin 150g","category":"snacks","brand":"4700bc","price":225,"created_at":"2026-01-19T13:20:00Z"}
+{"id":"p0646","name":"Cheese Popcorn","description":"Cheddar cheese flavor 100g","category":"snacks","brand":"4700bc","price":180,"created_at":"2026-01-19T13:25:00Z"}
+{"id":"p0647","name":"Potato Chips Salted","description":"Classic blue pack 150g","category":"snacks","brand":"lays","price":50,"created_at":"2026-01-19T13:30:00Z"}
+{"id":"p0648","name":"Tortilla Chips","description":"Corn chips for salsa 150g","category":"snacks","brand":"cornitos","price":90,"created_at":"2026-01-19T13:35:00Z"}
+{"id":"p0649","name":"Cheese Crackers","description":"Baked snack biscuits 200g","category":"snacks","brand":"britannia","price":65,"created_at":"2026-01-19T13:40:00Z"}
+{"id":"p0650","name":"Wafer Biscuits","description":"Strawberry cream layered 100g","category":"snacks","brand":"pickwick","price":75,"created_at":"2026-01-19T13:45:00Z"}
+{"id":"p0651","name":"Green Tea Honey Lemon","description":"Antioxidant bags 100s","category":"beverages","brand":"lipton","price":550,"created_at":"2026-01-19T13:50:00Z"}
+{"id":"p0652","name":"Instant Coffee Gold","description":"Freeze dried premium 50g","category":"beverages","brand":"nescafe","price":350,"created_at":"2026-01-19T13:55:00Z"}
+{"id":"p0653","name":"Ground Filter Coffee","description":"80:20 Coffee chicory blend 500g","category":"beverages","brand":"mtr","price":280,"created_at":"2026-01-19T14:00:00Z"}
+{"id":"p0654","name":"Hot Chocolate Mix","description":"Rich cocoa powder 200g","category":"beverages","brand":"cadbury","price":210,"created_at":"2026-01-19T14:05:00Z"}
+{"id":"p0655","name":"Apple Juice","description":"100% fruit juice no sugar 1L","category":"beverages","brand":"real-activ","price":135,"created_at":"2026-01-19T14:10:00Z"}
+{"id":"p0656","name":"Pomegranate Juice","description":"Cold pressed fresh juice 250ml","category":"beverages","brand":"raw-pressery","price":110,"created_at":"2026-01-19T14:15:00Z"}
+{"id":"p0657","name":"Soda Water","description":"Plain carbonated water 750ml","category":"beverages","brand":"kinley","price":25,"created_at":"2026-01-19T14:20:00Z"}
+{"id":"p0658","name":"Mineral Water Bottle","description":"Pack of 12 x 500ml","category":"beverages","brand":"bisleri","price":120,"created_at":"2026-01-19T14:25:00Z"}
+{"id":"p0659","name":"Energy Drink Sugarfree","description":"Zero calorie taurine drink","category":"beverages","brand":"red-bull","price":125,"created_at":"2026-01-19T14:30:00Z"}
+{"id":"p0660","name":"Barley Water","description":"Lemon flavored health drink","category":"beverages","brand":"fresho","price":60,"created_at":"2026-01-19T14:35:00Z"}
+{"id":"p0661","name":"Whole Wheat Flour","description":"Chakki atta 10kg","category":"staples","brand":"aashirvaad","price":520,"created_at":"2026-01-19T14:40:00Z"}
+{"id":"p0662","name":"Maida","description":"Refined wheat flour 1kg","category":"staples","brand":"fortune","price":60,"created_at":"2026-01-19T14:45:00Z"}
+{"id":"p0663","name":"Besan","description":"Fine gram flour 500g","category":"staples","brand":"tata-sampann","price":75,"created_at":"2026-01-19T14:50:00Z"}
+{"id":"p0664","name":"Semolina","description":"Suji rava 1kg","category":"staples","brand":"fortune","price":70,"created_at":"2026-01-19T14:55:00Z"}
+{"id":"p0665","name":"Poha","description":"Thick flattened rice 1kg","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-19T15:00:00Z"}
+{"id":"p0666","name":"Sugar Refined","description":"White sugar 5kg","category":"staples","brand":"madhur","price":245,"created_at":"2026-01-19T15:05:00Z"}
+{"id":"p0667","name":"Jaggery Cubes","description":"Pure organic gur 500g","category":"staples","brand":"24-mantra","price":90,"created_at":"2026-01-19T15:10:00Z"}
+{"id":"p0668","name":"Crystal Salt","description":"Natural sea salt 1kg","category":"staples","brand":"tata-salt","price":20,"created_at":"2026-01-19T15:15:00Z"}
+{"id":"p0669","name":"Baking Powder","description":"For cakes and biscuits 100g","category":"staples","brand":"weikfield","price":42,"created_at":"2026-01-19T15:20:00Z"}
+{"id":"p0670","name":"Dry Yeast","description":"Active instant yeast 50g","category":"staples","brand":"urban-platter","price":120,"created_at":"2026-01-19T15:25:00Z"}
+{"id":"p0671","name":"Multigrain Atta","description":"7 grain flour mix 5kg","category":"staples","brand":"aashirvaad","price":380,"created_at":"2026-01-19T15:30:00Z"}
+{"id":"p0672","name":"Cornmeal","description":"Makai ka atta 1kg","category":"staples","brand":"fresho","price":65,"created_at":"2026-01-19T15:35:00Z"}
+{"id":"p0673","name":"Soy Flour","description":"High protein flour 500g","category":"staples","brand":"24-mantra","price":85,"created_at":"2026-01-19T15:40:00Z"}
+{"id":"p0674","name":"Gluten Free Flour","description":"Baking mix for rotis 1kg","category":"staples","brand":"dr-gluten","price":250,"created_at":"2026-01-19T15:45:00Z"}
+{"id":"p0675","name":"Kuttu Atta","description":"Buckwheat flour 500g","category":"staples","brand":"fresho","price":95,"created_at":"2026-01-19T15:50:00Z"}
+{"id":"p0676","name":"Singhara Atta","description":"Water chestnut flour 500g","category":"staples","brand":"fresho","price":110,"created_at":"2026-01-19T15:55:00Z"}
+{"id":"p0677","name":"Rajgira Atta","description":"Amaranth flour 500g","category":"staples","brand":"fresho","price":80,"created_at":"2026-01-19T16:00:00Z"}
+{"id":"p0678","name":"Ragi Atta","description":"Finger millet flour 1kg","category":"staples","brand":"tata-sampann","price":90,"created_at":"2026-01-19T16:05:00Z"}
+{"id":"p0679","name":"Bajra Atta","description":"Pearl millet flour 1kg","category":"staples","brand":"fresho","price":75,"created_at":"2026-01-19T16:10:00Z"}
+{"id":"p0680","name":"Jowar Atta","description":"Sorghum flour 1kg","category":"staples","brand":"fresho","price":115,"created_at":"2026-01-19T16:15:00Z"}
+{"id":"p0681","name":"Organic Mustard Oil","description":"Cold pressed kachi ghani 1L","category":"staples","brand":"24-mantra","price":210,"created_at":"2026-01-19T16:20:00Z"}
+{"id":"p0682","name":"Sunflower Oil","description":"Refined cooking oil 5L jar","category":"staples","brand":"fortune","price":720,"created_at":"2026-01-19T16:25:00Z"}
+{"id":"p0683","name":"Soybean Oil","description":"Low absorb refined oil 1L","category":"staples","brand":"fortune","price":145,"created_at":"2026-01-19T16:30:00Z"}
+{"id":"p0684","name":"Extra Light Olive Oil","description":"For Indian cooking 1L","category":"staples","brand":"borges","price":1100,"created_at":"2026-01-19T16:35:00Z"}
+{"id":"p0685","name":"Pomace Olive Oil","description":"Refined olive oil 1L","category":"staples","brand":"figaro","price":850,"created_at":"2026-01-19T16:40:00Z"}
+{"id":"p0686","name":"Rice Bran Oil pouch","description":"Physically refined oil 1L","category":"staples","brand":"saffola","price":175,"created_at":"2026-01-19T16:45:00Z"}
+{"id":"p0687","name":"Cottonseed Oil","description":"Refined frying oil 1L","category":"staples","brand":"gulab","price":155,"created_at":"2026-01-19T16:50:00Z"}
+{"id":"p0688","name":"Corn Oil","description":"Refined maize oil 1L","category":"staples","brand":"mazola","price":350,"created_at":"2026-01-19T16:55:00Z"}
+{"id":"p0689","name":"Walnut Oil","description":"Cold pressed gourmet oil 250ml","category":"staples","brand":"urban-platter","price":850,"created_at":"2026-01-19T17:00:00Z"}
+{"id":"p0690","name":"Avocado Oil","description":"High smoke point cooking oil 250ml","category":"staples","brand":"urban-platter","price":999,"created_at":"2026-01-19T17:05:00Z"}
+{"id":"p0691","name":"Tomato Ketchup","description":"Classic tomato sauce 950g","category":"staples","brand":"kissan","price":155,"created_at":"2026-01-19T17:10:00Z"}
+{"id":"p0692","name":"Chili Sauce","description":"Red chili hot sauce 200g","category":"staples","brand":"chings","price":55,"created_at":"2026-01-19T17:15:00Z"}
+{"id":"p0693","name":"Soya Sauce","description":"Dark soybean sauce 200g","category":"staples","brand":"chings","price":60,"created_at":"2026-01-19T17:20:00Z"}
+{"id":"p0694","name":"Vinegar","description":"Synthetic white vinegar 610ml","category":"staples","brand":"chings","price":55,"created_at":"2026-01-19T17:25:00Z"}
+{"id":"p0695","name":"Schezwan Chutney","description":"Spicy dip jar 250g","category":"staples","brand":"chings","price":95,"created_at":"2026-01-19T17:30:00Z"}
+{"id":"p0696","name":"Eggless Mayonnaise","description":"Spreadable veg mayo 250g","category":"staples","brand":"veeba","price":85,"created_at":"2026-01-19T17:35:00Z"}
+{"id":"p0697","name":"Sandwich Spread","description":"Cheese and herb flavor 250g","category":"staples","brand":"funfoods","price":99,"created_at":"2026-01-19T17:40:00Z"}
+{"id":"p0698","name":"Mustard Sauce","description":"Kasundi style spicy sauce 250g","category":"staples","brand":"veeba","price":120,"created_at":"2026-01-19T17:45:00Z"}
+{"id":"p0699","name":"Barbeque Sauce","description":"Hickory smoked flavor 300g","category":"staples","brand":"veeba","price":155,"created_at":"2026-01-19T17:50:00Z"}
+{"id":"p0700","name":"Pizza Pasta Sauce","description":"Tomato and basil blend 300g","category":"staples","brand":"funfoods","price":125,"created_at":"2026-01-19T17:55:00Z"}
+{"id":"p0701","name":"Fusilli Pasta","description":"Durum wheat semolina 500g","category":"staples","brand":"del-monte","price":175,"created_at":"2026-01-19T18:00:00Z"}
+{"id":"p0702","name":"Spaghetti","description":"Long pasta strands 500g","category":"staples","brand":"barilla","price":250,"created_at":"2026-01-19T18:05:00Z"}
+{"id":"p0703","name":"Penne Rigate","description":"Ribbed tubular pasta 500g","category":"staples","brand":"borges","price":195,"created_at":"2026-01-19T18:10:00Z"}
+{"id":"p0704","name":"Lasagna Sheets","description":"No-boil pasta sheets 250g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-19T18:15:00Z"}
+{"id":"p0705","name":"Macaroni Elbows","description":"Wheat pasta for salads 500g","category":"staples","brand":"bambino","price":65,"created_at":"2026-01-19T18:20:00Z"}
+{"id":"p0706","name":"Instant Couscous","description":"Steamed semolina 500g","category":"staples","brand":"urban-platter","price":299,"created_at":"2026-01-19T18:25:00Z"}
+{"id":"p0707","name":"Rice Vermicelli","description":"Gluten free thin noodles 200g","category":"staples","brand":"real-thai","price":145,"created_at":"2026-01-19T18:30:00Z"}
+{"id":"p0708","name":"Hakka Noodles","description":"Wheat stir fry noodles 150g","category":"staples","brand":"chings","price":35,"created_at":"2026-01-19T18:35:00Z"}
+{"id":"p0709","name":"Glass Noodles","description":"Mung bean starch noodles 100g","category":"staples","brand":"urban-platter","price":225,"created_at":"2026-01-19T18:40:00Z"}
+{"id":"p0710","name":"Soba Noodles","description":"Buckwheat noodles 200g","category":"staples","brand":"itsuki","price":299,"created_at":"2026-01-19T18:45:00Z"}
+{"id":"p0711","name":"Vanilla Essence","description":"Aromatic flavoring agent 20ml","category":"staples","brand":"weikfield","price":55,"created_at":"2026-01-19T18:50:00Z"}
+{"id":"p0712","name":"Cocoa Powder","description":"Unsweetened dark chocolate powder","category":"staples","brand":"hersheys","price":225,"created_at":"2026-01-19T18:55:00Z"}
+{"id":"p0713","name":"Baking Soda","description":"Pure sodium bicarbonate 100g","category":"staples","brand":"weikfield","price":30,"created_at":"2026-01-19T19:00:00Z"}
+{"id":"p0714","name":"Dark Choco Chips","description":"Semisweet baking chips 200g","category":"staples","brand":"hersheys","price":250,"created_at":"2026-01-19T19:05:00Z"}
+{"id":"p0715","name":"Milk Choco Chips","description":"Creamy chocolate chips 200g","category":"staples","brand":"hersheys","price":250,"created_at":"2026-01-19T19:10:00Z"}
+{"id":"p0716","name":"Cooking Chocolate","description":"Dark compound slab 400g","category":"staples","brand":"morde","price":180,"created_at":"2026-01-19T19:15:00Z"}
+{"id":"p0717","name":"Whipping Cream","description":"UHT non-dairy cream 1L","category":"dairy","brand":"richs","price":210,"created_at":"2026-01-19T19:20:00Z"}
+{"id":"p0718","name":"Condensed Milk","description":"Sweetened milk for desserts 400g","category":"dairy","brand":"nestle-milkmaid","price":144,"created_at":"2026-01-19T19:25:00Z"}
+{"id":"p0719","name":"Evaporated Milk","description":"Unsweetened creamy milk 170g","category":"dairy","brand":"rainbow","price":90,"created_at":"2026-01-19T19:30:00Z"}
+{"id":"p0720","name":"Custard Powder","description":"Vanilla flavor 100g","category":"staples","brand":"weikfield","price":45,"created_at":"2026-01-19T19:35:00Z"}
+{"id":"p0721","name":"Corn Starch","description":"Fine thickening powder 200g","category":"staples","brand":"weikfield","price":40,"created_at":"2026-01-19T19:40:00Z"}
+{"id":"p0722","name":"Liquid Glucose","description":"Syrup for baking 200g","category":"staples","brand":"urban-platter","price":150,"created_at":"2026-01-19T19:45:00Z"}
+{"id":"p0723","name":"Glycerine Food Grade","description":"For fondant and cakes 100ml","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-19T19:50:00Z"}
+{"id":"p0724","name":"Red Food Color","description":"Liquid edible color 20ml","category":"staples","brand":"weikfield","price":45,"created_at":"2026-01-19T19:55:00Z"}
+{"id":"p0725","name":"Gelatin Sheets","description":"Unflavored leaf gelatin 10s","category":"staples","brand":"urban-platter","price":499,"created_at":"2026-01-19T20:00:00Z"}
+{"id":"p0726","name":"Active Dry Yeast","description":"High rise yeast for bread 50g","category":"staples","brand":"blue-bird","price":95,"created_at":"2026-01-19T20:05:00Z"}
+{"id":"p0727","name":"Bread Flour","description":"High protein wheat flour 1kg","category":"staples","brand":"urban-platter","price":180,"created_at":"2026-01-19T20:10:00Z"}
+{"id":"p0728","name":"Cake Flour","description":"Low protein fine flour 1kg","category":"staples","brand":"urban-platter","price":150,"created_at":"2026-01-19T20:15:00Z"}
+{"id":"p0729","name":"Self Raising Flour","description":"With leavening agents 500g","category":"staples","brand":"urban-platter","price":120,"created_at":"2026-01-19T20:20:00Z"}
+{"id":"p0730","name":"Almond Flour","description":"Extra fine blanched nuts 250g","category":"staples","brand":"happilo","price":450,"created_at":"2026-01-19T20:25:00Z"}
+{"id":"p0731","name":"Organic Apple Cider Vinegar","description":"With the mother 500ml","category":"staples","brand":"bragg","price":850,"created_at":"2026-01-19T20:30:00Z"}
+{"id":"p0732","name":"Organic Flax Seed Oil","description":"Cold pressed Omega-3 250ml","category":"staples","brand":"organic-india","price":350,"created_at":"2026-01-19T20:35:00Z"}
+{"id":"p0733","name":"Hemp Hearts","description":"Shelled hemp seeds 100g","category":"staples","brand":"india-hemp-co","price":450,"created_at":"2026-01-19T20:40:00Z"}
+{"id":"p0734","name":"Hemp Seed Oil","description":"Raw cold pressed 100ml","category":"staples","brand":"india-hemp-co","price":550,"created_at":"2026-01-19T20:45:00Z"}
+{"id":"p0735","name":"Spirulina Powder","description":"Organic superfood supplement 100g","category":"personal-care","brand":"urban-platter","price":499,"created_at":"2026-01-19T20:50:00Z"}
+{"id":"p0736","name":"Wheatgrass Powder","description":"Detox greens 100g","category":"personal-care","brand":"kapiva","price":399,"created_at":"2026-01-19T20:55:00Z"}
+{"id":"p0737","name":"Moringa Powder","description":"Nutrient dense drumstick leaf 100g","category":"personal-care","brand":"organic-india","price":250,"created_at":"2026-01-19T21:00:00Z"}
+{"id":"p0738","name":"Ashwagandha Powder","description":"Ayurvedic stress relief 100g","category":"personal-care","brand":"organic-india","price":180,"created_at":"2026-01-19T21:05:00Z"}
+{"id":"p0739","name":"Triphala Powder","description":"Digestive health supplement 100g","category":"personal-care","brand":"himalaya","price":150,"created_at":"2026-01-19T21:10:00Z"}
+{"id":"p0740","name":"Psyllium Husk","description":"Sat-isabgol fiber 100g","category":"personal-care","brand":"dabur","price":120,"created_at":"2026-01-19T21:15:00Z"}
+{"id":"p0741","name":"Disposable Face Masks","description":"3-ply surgical masks 50s","category":"personal-care","brand":"detel","price":250,"created_at":"2026-01-19T21:20:00Z"}
+{"id":"p0742","name":"N95 Respirator","description":"High filtration mask 5s","category":"personal-care","brand":"3m","price":450,"created_at":"2026-01-19T21:25:00Z"}
+{"id":"p0743","name":"Digital Thermometer","description":"Instant read for fever","category":"personal-care","brand":"omron","price":299,"created_at":"2026-01-19T21:30:00Z"}
+{"id":"p0744","name":"Pulse Oximeter","description":"SpO2 and pulse rate monitor","category":"personal-care","brand":"dr-trust","price":1200,"created_at":"2026-01-19T21:35:00Z"}
+{"id":"p0745","name":"Blood Pressure Monitor","description":"Automatic upper arm cuff","category":"personal-care","brand":"omron","price":2400,"created_at":"2026-01-19T21:40:00Z"}
+{"id":"p0746","name":"Vaporizer","description":"Steam inhaler for cold/flu","category":"personal-care","brand":"health-sense","price":850,"created_at":"2026-01-19T21:45:00Z"}
+{"id":"p0747","name":"First Aid Kit","description":"Essential bandages and antiseptic","category":"personal-care","brand":"dettol","price":550,"created_at":"2026-01-19T21:50:00Z"}
+{"id":"p0748","name":"Antiseptic Liquid","description":"Disinfectant for wounds 500ml","category":"personal-care","brand":"dettol","price":195,"created_at":"2026-01-19T21:55:00Z"}
+{"id":"p0749","name":"Adhesive Bandages","description":"Assorted sizes pack of 20","category":"personal-care","brand":"hansaplast","price":80,"created_at":"2026-01-19T22:00:00Z"}
+{"id":"p0750","name":"Hot Water Bag","description":"Rubber heating pad for pain","category":"personal-care","brand":"fresho","price":350,"created_at":"2026-01-19T22:05:00Z"}
+{"id":"p0751","name":"LED Bulb 9W","description":"Cool day light energy saver","category":"electronics","brand":"philips","price":120,"created_at":"2026-01-19T22:10:00Z"}
+{"id":"p0752","name":"AA Batteries","description":"Alkaline batteries pack of 4","category":"electronics","brand":"duracell","price":180,"created_at":"2026-01-19T22:15:00Z"}
+{"id":"p0753","name":"AAA Batteries","description":"Alkaline batteries pack of 4","category":"electronics","brand":"duracell","price":180,"created_at":"2026-01-19T22:20:00Z"}
+{"id":"p0754","name":"Extension Cord","description":"4-socket with 2m cable","category":"electronics","brand":"philips","price":550,"created_at":"2026-01-19T22:25:00Z"}
+{"id":"p0755","name":"USB-C Cable","description":"Fast charging 1m cord","category":"electronics","brand":"mi","price":299,"created_at":"2026-01-19T22:30:00Z"}
+{"id":"p0756","name":"Wall Plug Adapter","description":"Multi-pin travel adapter","category":"electronics","brand":"orei","price":450,"created_at":"2026-01-19T22:35:00Z"}
+{"id":"p0757","name":"Door Bells","description":"Cordless wireless bell","category":"electronics","brand":"anchor","price":850,"created_at":"2026-01-19T22:40:00Z"}
+{"id":"p0758","name":"Night Lamp","description":"Automatic sensor LED","category":"electronics","brand":"philips","price":350,"created_at":"2026-01-19T22:45:00Z"}
+{"id":"p0759","name":"Torch Light","description":"Rechargeable LED flashlight","category":"electronics","brand":"eveready","price":499,"created_at":"2026-01-19T22:50:00Z"}
+{"id":"p0760","name":"Smart Plug","description":"Wi-fi enabled 10A switch","category":"electronics","brand":"tp-link","price":999,"created_at":"2026-01-19T22:55:00Z"}
+{"id":"p0761","name":"Organic Brown Lentils","description":"Whole Masoor dal 1kg","category":"staples","brand":"24-mantra","price":165,"created_at":"2026-01-18T08:00:00Z"}
+{"id":"p0762","name":"Organic Green Gram","description":"Whole Moong 1kg","category":"staples","brand":"organic-india","price":210,"created_at":"2026-01-18T08:05:00Z"}
+{"id":"p0763","name":"Organic Soy Beans","description":"High protein beans 500g","category":"staples","brand":"fresho","price":95,"created_at":"2026-01-18T08:10:00Z"}
+{"id":"p0764","name":"Organic Kabuli Chana","description":"Large chickpeas 1kg","category":"staples","brand":"tata-sampann","price":180,"created_at":"2026-01-18T08:15:00Z"}
+{"id":"p0765","name":"Organic Urad Dal","description":"Split black gram 1kg","category":"staples","brand":"24-mantra","price":195,"created_at":"2026-01-18T08:20:00Z"}
+{"id":"p0766","name":"Organic Toor Dal","description":"Arhar dal unpolished 1kg","category":"staples","brand":"tata-sampann","price":210,"created_at":"2026-01-18T08:25:00Z"}
+{"id":"p0767","name":"Organic Rajma Chitra","description":"Spotted kidney beans 1kg","category":"staples","brand":"fresho","price":245,"created_at":"2026-01-18T08:30:00Z"}
+{"id":"p0768","name":"Organic Cow Peas","description":"Lobia white 500g","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-18T08:35:00Z"}
+{"id":"p0769","name":"Organic Moth Beans","description":"Matki whole 500g","category":"staples","brand":"fresho","price":90,"created_at":"2026-01-18T08:40:00Z"}
+{"id":"p0770","name":"Organic Horse Gram","description":"Kulti dal whole 500g","category":"staples","brand":"fresho","price":75,"created_at":"2026-01-18T08:45:00Z"}
+{"id":"p0771","name":"Handmade Soap Neem","description":"Cold processed organic soap","category":"personal-care","brand":"khadi-natural","price":120,"created_at":"2026-01-18T08:50:00Z"}
+{"id":"p0772","name":"Handmade Soap Charcoal","description":"Deep cleansing detox bar","category":"personal-care","brand":"khadi-natural","price":120,"created_at":"2026-01-18T08:55:00Z"}
+{"id":"p0773","name":"Handmade Soap Sandalwood","description":"Aromatic skin softening bar","category":"personal-care","brand":"khadi-natural","price":150,"created_at":"2026-01-18T09:00:00Z"}
+{"id":"p0774","name":"Organic Rose Water","description":"Pure steam distilled 100ml","category":"personal-care","brand":"kama-ayurveda","price":450,"created_at":"2026-01-18T09:05:00Z"}
+{"id":"p0775","name":"Organic Aloe Gel","description":"Pure soothing gel 200ml","category":"personal-care","brand":"wow","price":299,"created_at":"2026-01-18T09:10:00Z"}
+{"id":"p0776","name":"Organic Coconut Hair Oil","description":"Extra virgin cold pressed 250ml","category":"personal-care","brand":"forest-essentials","price":650,"created_at":"2026-01-18T09:15:00Z"}
+{"id":"p0777","name":"Organic Castor Oil","description":"Cold pressed for hair/skin 100ml","category":"personal-care","brand":"soulflower","price":350,"created_at":"2026-01-18T09:20:00Z"}
+{"id":"p0778","name":"Organic Argan Oil","description":"Moroccan oil for face 30ml","category":"personal-care","brand":"the-ordinary","price":999,"created_at":"2026-01-18T09:25:00Z"}
+{"id":"p0779","name":"Tea Tree Essential Oil","description":"Pure antiseptic oil 15ml","category":"personal-care","brand":"soulflower","price":450,"created_at":"2026-01-18T09:30:00Z"}
+{"id":"p0780","name":"Lavender Essential Oil","description":"Pure calming oil 15ml","category":"personal-care","brand":"soulflower","price":450,"created_at":"2026-01-18T09:35:00Z"}
+{"id":"p0781","name":"Organic Green Tea","description":"Loose leaf jasmine flavor 100g","category":"beverages","brand":"organic-india","price":280,"created_at":"2026-01-18T09:40:00Z"}
+{"id":"p0782","name":"Organic Coffee Powder","description":"Medium roast ground 250g","category":"beverages","brand":"blue-tokai","price":499,"created_at":"2026-01-18T09:45:00Z"}
+{"id":"p0783","name":"Organic Cocoa Nibbs","description":"Raw roasted nibs 100g","category":"snacks","brand":"urban-platter","price":350,"created_at":"2026-01-18T09:50:00Z"}
+{"id":"p0784","name":"Organic Pumpkin Seeds","description":"Raw shelled seeds 150g","category":"snacks","brand":"true-elements","price":225,"created_at":"2026-01-18T09:55:00Z"}
+{"id":"p0785","name":"Organic Sunflower Seeds","description":"Raw shelled seeds 150g","category":"snacks","brand":"true-elements","price":180,"created_at":"2026-01-18T10:00:00Z"}
+{"id":"p0786","name":"Organic Chia Seeds","description":"Black fiber seeds 150g","category":"snacks","brand":"true-elements","price":250,"created_at":"2026-01-18T10:05:00Z"}
+{"id":"p0787","name":"Organic Flax Seeds","description":"Whole brown seeds 200g","category":"snacks","brand":"true-elements","price":150,"created_at":"2026-01-18T10:10:00Z"}
+{"id":"p0788","name":"Organic Goji Berries","description":"Dried Himalayan berries 100g","category":"snacks","brand":"urban-platter","price":450,"created_at":"2026-01-18T10:15:00Z"}
+{"id":"p0789","name":"Organic Dried Apricots","description":"Sulphur free 200g","category":"snacks","brand":"fresho","price":350,"created_at":"2026-01-18T10:20:00Z"}
+{"id":"p0790","name":"Organic Dates","description":"Khimia soft dates 500g","category":"snacks","brand":"fresho","price":399,"created_at":"2026-01-18T10:25:00Z"}
+{"id":"p0791","name":"Multigrain Crackers","description":"Baked thin crisps 150g","category":"snacks","brand":"yogabar","price":120,"created_at":"2026-01-18T10:30:00Z"}
+{"id":"p0792","name":"Hummus Dip Classic","description":"Chickpea spread 200g","category":"staples","brand":"wingreens","price":199,"created_at":"2026-01-18T10:35:00Z"}
+{"id":"p0793","name":"Pita Bread","description":"Whole wheat pack of 5","category":"bakery","brand":"fresho","price":95,"created_at":"2026-01-18T10:40:00Z"}
+{"id":"p0794","name":"Greek Salad Dressing","description":"Olive oil and herb 250ml","category":"staples","brand":"veeba","price":145,"created_at":"2026-01-18T10:45:00Z"}
+{"id":"p0795","name":"Feta Cheese in Oil","description":"Cubes with herbs 200g","category":"dairy","brand":"fresho","price":450,"created_at":"2026-01-18T10:50:00Z"}
+{"id":"p0796","name":"Halloumi Cheese","description":"Grilling cheese 200g","category":"dairy","brand":"fresho","price":550,"created_at":"2026-01-18T10:55:00Z"}
+{"id":"p0797","name":"Bocconcini","description":"Small mozzarella balls 200g","category":"dairy","brand":"mozzarella-co","price":399,"created_at":"2026-01-18T11:00:00Z"}
+{"id":"p0798","name":"Mascarpone","description":"Italian cream cheese 200g","category":"dairy","brand":"imperia","price":450,"created_at":"2026-01-18T11:05:00Z"}
+{"id":"p0799","name":"Ricotta Cheese","description":"Soft whey cheese 200g","category":"dairy","brand":"fresho","price":350,"created_at":"2026-01-18T11:10:00Z"}
+{"id":"p0800","name":"Parmesan Wedges","description":"Hard aged cheese 100g","category":"dairy","brand":"zanetti","price":499,"created_at":"2026-01-18T11:15:00Z"}
+{"id":"p0801","name":"Steel Wool Scrubber","description":"For heavy cleaning 3s","category":"household","brand":"scotch-brite","price":45,"created_at":"2026-01-18T11:20:00Z"}
+{"id":"p0802","name":"Sponge Wipe","description":"Absorbent kitchen wipe 3s","category":"household","brand":"scotch-brite","price":120,"created_at":"2026-01-18T11:25:00Z"}
+{"id":"p0803","name":"Dishwash Bar","description":"Lemon grease remover 200g","category":"household","brand":"vim","price":20,"created_at":"2026-01-18T11:30:00Z"}
+{"id":"p0804","name":"Liquid Detergent","description":"Front load matic 2L","category":"household","brand":"ariel","price":450,"created_at":"2026-01-18T11:35:00Z"}
+{"id":"p0805","name":"Fabric Softener","description":"Morning fresh scent 1L","category":"household","brand":"comfort","price":220,"created_at":"2026-01-18T11:40:00Z"}
+{"id":"p0806","name":"Floor Cleaner Pine","description":"Disinfectant liquid 2L","category":"household","brand":"lizol","price":340,"created_at":"2026-01-18T11:45:00Z"}
+{"id":"p0807","name":"Glass Cleaner","description":"Blue spray bottle 500ml","category":"household","brand":"colin","price":95,"created_at":"2026-01-18T11:50:00Z"}
+{"id":"p0808","name":"Cockroach Killer Spray","description":"Instant kill 400ml","category":"household","brand":"hit","price":210,"created_at":"2026-01-18T11:55:00Z"}
+{"id":"p0809","name":"Mosquito Coil","description":"10 coils pack","category":"household","brand":"maxo","price":45,"created_at":"2026-01-18T12:00:00Z"}
+{"id":"p0810","name":"Rat Glue Trap","description":"Folding trap for rodents","category":"household","brand":"hit","price":120,"created_at":"2026-01-18T12:05:00Z"}
+{"id":"p0811","name":"Aluminum Foil","description":"Food grade 18m roll","category":"household","brand":"freshwrap","price":180,"created_at":"2026-01-18T12:10:00Z"}
+{"id":"p0812","name":"Cling Film","description":"Food wrap 30m roll","category":"household","brand":"fresho","price":150,"created_at":"2026-01-18T12:15:00Z"}
+{"id":"p0813","name":"Baking Paper","description":"Non-stick parchment 20m","category":"household","brand":"fresho","price":250,"created_at":"2026-01-18T12:20:00Z"}
+{"id":"p0814","name":"Garbage Bags Small","description":"Black bags pack of 30","category":"household","brand":"fresho","price":90,"created_at":"2026-01-18T12:25:00Z"}
+{"id":"p0815","name":"Garbage Bags Large","description":"Blue heavy duty 15s","category":"household","brand":"fresho","price":110,"created_at":"2026-01-18T12:30:00Z"}
+{"id":"p0816","name":"Dusting Cloth","description":"Yellow microfiber 2s","category":"household","brand":"fresho","price":99,"created_at":"2026-01-18T12:35:00Z"}
+{"id":"p0817","name":"Scrub Pad Nylon","description":"Non-scratch for non-stick 2s","category":"household","brand":"scotch-brite","price":60,"created_at":"2026-01-18T12:40:00Z"}
+{"id":"p0818","name":"Washing Machine Descaler","description":"For drum cleaning 100g","category":"household","brand":"lg","price":150,"created_at":"2026-01-18T12:45:00Z"}
+{"id":"p0819","name":"Liquid Bleach","description":"White clothes whitener 500ml","category":"household","brand":"ala","price":60,"created_at":"2026-01-18T12:50:00Z"}
+{"id":"p0820","name":"Ironing Spray","description":"Starch spray for collars 400ml","category":"household","brand":"revive","price":180,"created_at":"2026-01-18T12:55:00Z"}
+{"id":"p0821","name":"Dog Harness Medium","description":"Adjustable chest harness","category":"pet-care","brand":"heads-up-for-tails","price":850,"created_at":"2026-01-18T13:00:00Z"}
+{"id":"p0822","name":"Cat Scratching Post","description":"Sisal rope post 1ft","category":"pet-care","brand":"trixie","price":1200,"created_at":"2026-01-18T13:05:00Z"}
+{"id":"p0823","name":"Pet Water Fountain","description":"Electric filtered waterer","category":"pet-care","brand":"petsafe","price":2500,"created_at":"2026-01-18T13:10:00Z"}
+{"id":"p0824","name":"Dog Raincoat","description":"Waterproof yellow medium","category":"pet-care","brand":"heads-up-for-tails","price":950,"created_at":"2026-01-18T13:15:00Z"}
+{"id":"p0825","name":"Cat Collar Bell","description":"Reflective nylon collar","category":"pet-care","brand":"trixie","price":199,"created_at":"2026-01-18T13:20:00Z"}
+{"id":"p0826","name":"Puppy Training Pads","description":"Absorbent floor pads 10s","category":"pet-care","brand":"savic","price":450,"created_at":"2026-01-18T13:25:00Z"}
+{"id":"p0827","name":"Dog Muzzle","description":"Breathable mesh small","category":"pet-care","brand":"trixie","price":350,"created_at":"2026-01-18T13:30:00Z"}
+{"id":"p0828","name":"Fish Net Small","description":"Fine mesh for aquarium","category":"pet-care","brand":"fresho","price":80,"created_at":"2026-01-18T13:35:00Z"}
+{"id":"p0829","name":"Bird Cage Swing","description":"Wooden swing for parakeets","category":"pet-care","brand":"fresho","price":150,"created_at":"2026-01-18T13:40:00Z"}
+{"id":"p0830","name":"Rabbit Litter","description":"Paper based pellets 2kg","category":"pet-care","brand":"vitapol","price":550,"created_at":"2026-01-18T13:45:00Z"}
+{"id":"p0831","name":"Organic Quinoa Flour","description":"Gluten free baking flour 500g","category":"staples","brand":"true-elements","price":299,"created_at":"2026-01-18T13:50:00Z"}
+{"id":"p0832","name":"Organic Buckwheat Flour","description":"Kuttu flour unrefined 500g","category":"staples","brand":"24-mantra","price":110,"created_at":"2026-01-18T13:55:00Z"}
+{"id":"p0833","name":"Organic Brown Rice Flour","description":"Whole grain rice powder 500g","category":"staples","brand":"fresho","price":75,"created_at":"2026-01-18T14:00:00Z"}
+{"id":"p0834","name":"Organic Amaranth Flour","description":"Rajgira powder 500g","category":"staples","brand":"24-mantra","price":90,"created_at":"2026-01-18T14:05:00Z"}
+{"id":"p0835","name":"Organic Little Millet","description":"Saamai whole grain 500g","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-18T14:10:00Z"}
+{"id":"p0836","name":"Organic Foxtail Millet","description":"Thinai whole grain 500g","category":"staples","brand":"fresho","price":85,"created_at":"2026-01-18T14:15:00Z"}
+{"id":"p0837","name":"Organic Kodo Millet","description":"Varagu whole grain 500g","category":"staples","brand":"fresho","price":95,"created_at":"2026-01-18T14:20:00Z"}
+{"id":"p0838","name":"Organic Barnyard Millet","description":"Kuthiraivali whole grain 500g","category":"staples","brand":"fresho","price":95,"created_at":"2026-01-18T14:25:00Z"}
+{"id":"p0839","name":"Organic Proso Millet","description":"Panivaragu whole grain 500g","category":"staples","brand":"fresho","price":90,"created_at":"2026-01-18T14:30:00Z"}
+{"id":"p0840","name":"Organic Multi-Millet Mix","description":"Health drink powder 500g","category":"staples","brand":"manna","price":250,"created_at":"2026-01-18T14:35:00Z"}
+{"id":"p0841","name":"Organic Coconut Milk","description":"Full fat canned 400ml","category":"staples","brand":"real-thai","price":195,"created_at":"2026-01-18T14:40:00Z"}
+{"id":"p0842","name":"Organic Coconut Flour","description":"Gluten free high fiber 500g","category":"staples","brand":"urban-platter","price":350,"created_at":"2026-01-18T14:45:00Z"}
+{"id":"p0843","name":"Organic Palm Jaggery","description":"Unrefined Karupatti 500g","category":"staples","brand":"fresho","price":210,"created_at":"2026-01-18T14:50:00Z"}
+{"id":"p0844","name":"Organic Stevia Leaves","description":"Dried natural sweetener 50g","category":"staples","brand":"organic-india","price":150,"created_at":"2026-01-18T14:55:00Z"}
+{"id":"p0845","name":"Organic Erythritol","description":"Zero calorie sugar substitute 250g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-18T15:00:00Z"}
+{"id":"p0846","name":"Organic Monk Fruit Blend","description":"Natural sweetener 100g","category":"staples","brand":"urban-platter","price":550,"created_at":"2026-01-18T15:05:00Z"}
+{"id":"p0847","name":"Organic Xylitol","description":"Birch sugar for dental health 250g","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-18T15:10:00Z"}
+{"id":"p0848","name":"Organic Yacon Syrup","description":"Prebiotic low GI sweetener 200ml","category":"staples","brand":"urban-platter","price":1200,"created_at":"2026-01-18T15:15:00Z"}
+{"id":"p0849","name":"Organic Coconut Nectar","description":"Liquid coconut sugar 250ml","category":"staples","brand":"urban-platter","price":550,"created_at":"2026-01-18T15:20:00Z"}
+{"id":"p0850","name":"Organic Date Syrup","description":"Natural fruit sweetener 250ml","category":"staples","brand":"lion-dates","price":180,"created_at":"2026-01-18T15:25:00Z"}
+{"id":"p0851","name":"Nuts and Berries Mix","description":"Roasted trail mix 200g","category":"snacks","brand":"happilo","price":350,"created_at":"2026-01-18T15:30:00Z"}
+{"id":"p0852","name":"Salted Pistachios","description":"Roasted in shell 200g","category":"snacks","brand":"happilo","price":450,"created_at":"2026-01-18T15:35:00Z"}
+{"id":"p0853","name":"Raw Walnuts","description":"Kashmiri akhrot kernels 200g","category":"snacks","brand":"farmley","price":499,"created_at":"2026-01-18T15:40:00Z"}
+{"id":"p0854","name":"Pecan Nuts","description":"Raw halved pecans 100g","category":"snacks","brand":"urban-platter","price":550,"created_at":"2026-01-18T15:45:00Z"}
+{"id":"p0855","name":"Macadamia Nuts","description":"Raw unsalted nuts 100g","category":"snacks","brand":"urban-platter","price":650,"created_at":"2026-01-18T15:50:00Z"}
+{"id":"p0856","name":"Brazil Nuts","description":"Rich in selenium 100g","category":"snacks","brand":"urban-platter","price":599,"created_at":"2026-01-18T15:55:00Z"}
+{"id":"p0857","name":"Pine Nuts","description":"Chilgoza kernels 50g","category":"snacks","brand":"urban-platter","price":750,"created_at":"2026-01-18T16:00:00Z"}
+{"id":"p0858","name":"Dried Cranberries","description":"Sweetened dried berries 200g","category":"snacks","brand":"happilo","price":299,"created_at":"2026-01-18T16:05:00Z"}
+{"id":"p0859","name":"Dried Blueberries","description":"Wild dried berries 150g","category":"snacks","brand":"happilo","price":450,"created_at":"2026-01-18T16:10:00Z"}
+{"id":"p0860","name":"Dried Figs","description":"Anjeer soft grade 200g","category":"snacks","brand":"fresho","price":350,"created_at":"2026-01-18T16:15:00Z"}
+{"id":"p0861","name":"Organic Chamomile Tea","description":"Caffeine free loose flowers 50g","category":"beverages","brand":"urban-platter","price":350,"created_at":"2026-01-18T16:20:00Z"}
+{"id":"p0862","name":"Organic Peppermint Tea","description":"Loose herbal tea 50g","category":"beverages","brand":"te-a-me","price":250,"created_at":"2026-01-18T16:25:00Z"}
+{"id":"p0863","name":"Organic Rooibos Tea","description":"South African red tea 50g","category":"beverages","brand":"urban-platter","price":450,"created_at":"2026-01-18T16:30:00Z"}
+{"id":"p0864","name":"Organic Hibiscus Tea","description":"Dried petals for brewing 50g","category":"beverages","brand":"urban-platter","price":299,"created_at":"2026-01-18T16:35:00Z"}
+{"id":"p0865","name":"Organic Butterfly Pea Tea","description":"Blue tea flowers 30g","category":"beverages","brand":"urban-platter","price":399,"created_at":"2026-01-18T16:40:00Z"}
+{"id":"p0866","name":"Organic Matcha Powder","description":"Culinary grade tea 50g","category":"beverages","brand":"urban-platter","price":850,"created_at":"2026-01-18T16:45:00Z"}
+{"id":"p0867","name":"Organic Earl Grey","description":"Black tea with bergamot 100g","category":"beverages","brand":"twinings","price":550,"created_at":"2026-01-18T16:50:00Z"}
+{"id":"p0868","name":"Organic Darjeeling Tea","description":"Whole leaf black tea 100g","category":"beverages","brand":"makaibari","price":450,"created_at":"2026-01-18T16:55:00Z"}
+{"id":"p0869","name":"Organic Assam Tea","description":"Strong CTC tea 250g","category":"beverages","brand":"tata-tea","price":350,"created_at":"2026-01-18T17:00:00Z"}
+{"id":"p0870","name":"Organic White Tea","description":"Rare silver needles 50g","category":"beverages","brand":"vadhani","price":1200,"created_at":"2026-01-18T17:05:00Z"}
+{"id":"p0871","name":"Hammer","description":"Claw hammer with rubber grip","category":"household","brand":"stanley","price":450,"created_at":"2026-01-18T17:10:00Z"}
+{"id":"p0872","name":"Screwdriver Set","description":"6-piece precision set","category":"household","brand":"taparia","price":350,"created_at":"2026-01-18T17:15:00Z"}
+{"id":"p0873","name":"Pliers","description":"Combination pliers 8 inch","category":"household","brand":"taparia","price":280,"created_at":"2026-01-18T17:20:00Z"}
+{"id":"p0874","name":"Measuring Tape","description":"5 meter steel tape","category":"household","brand":"stanley","price":199,"created_at":"2026-01-18T17:25:00Z"}
+{"id":"p0875","name":"Utility Knife","description":"Retractable heavy duty cutter","category":"household","brand":"stanley","price":250,"created_at":"2026-01-18T17:30:00Z"}
+{"id":"p0876","name":"Wrench Adjustable","description":"10 inch chrome finish","category":"household","brand":"taparia","price":450,"created_at":"2026-01-18T17:35:00Z"}
+{"id":"p0877","name":"Nail Assortment","description":"Wood and wall nails box","category":"household","brand":"fresho","price":150,"created_at":"2026-01-18T17:40:00Z"}
+{"id":"p0878","name":"Screw Assortment","description":"Self tapping screws box","category":"household","brand":"fresho","price":150,"created_at":"2026-01-18T17:45:00Z"}
+{"id":"p0879","name":"Insulation Tape","description":"PVC electrical tape black","category":"household","brand":"steelgrip","price":20,"created_at":"2026-01-18T17:50:00Z"}
+{"id":"p0880","name":"Super Glue","description":"Instant adhesive 3g","category":"household","brand":"fevikwik","price":10,"created_at":"2026-01-18T17:55:00Z"}
+{"id":"p0881","name":"Organic Chickpea Pasta","description":"Gluten free fusilli 250g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-18T18:00:00Z"}
+{"id":"p0882","name":"Organic Edamame Pasta","description":"High protein spaghetti 250g","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-18T18:05:00Z"}
+{"id":"p0883","name":"Organic Red Lentil Pasta","description":"Gluten free penne 250g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-18T18:10:00Z"}
+{"id":"p0884","name":"Organic Buckwheat Pasta","description":"Japanese style soba 200g","category":"staples","brand":"itsuki","price":350,"created_at":"2026-01-18T18:15:00Z"}
+{"id":"p0885","name":"Organic Konjac Noodles","description":"Zero calorie shirataki 200g","category":"staples","brand":"urban-platter","price":299,"created_at":"2026-01-18T18:20:00Z"}
+{"id":"p0886","name":"Organic Zucchini Pasta","description":"Dried zoodles 100g","category":"staples","brand":"urban-platter","price":450,"created_at":"2026-01-18T18:25:00Z"}
+{"id":"p0887","name":"Organic Spelt Pasta","description":"Ancient grain penne 500g","category":"staples","brand":"borges","price":550,"created_at":"2026-01-18T18:30:00Z"}
+{"id":"p0888","name":"Organic Kamut Pasta","description":"Khorasan wheat fusilli 500g","category":"staples","brand":"borges","price":650,"created_at":"2026-01-18T18:35:00Z"}
+{"id":"p0889","name":"Organic Einkorn Pasta","description":"Heritage wheat spaghetti 500g","category":"staples","brand":"urban-platter","price":750,"created_at":"2026-01-18T18:40:00Z"}
+{"id":"p0890","name":"Organic Whole Grain Couscous","description":"Healthy semolina 500g","category":"staples","brand":"urban-platter","price":350,"created_at":"2026-01-18T18:45:00Z"}
+{"id":"p0891","name":"Aloo Bhujia","description":"Spicy gram flour noodles 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-18T18:50:00Z"}
+{"id":"p0892","name":"Moong Dal","description":"Fried salty yellow lentils 200g","category":"snacks","brand":"haldirams","price":75,"created_at":"2026-01-18T18:55:00Z"}
+{"id":"p0893","name":"Navratan Mixture","description":"9-ingredient spicy mix 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-18T19:00:00Z"}
+{"id":"p0894","name":"Khatta Meetha","description":"Sweet and sour pulse mix 400g","category":"snacks","brand":"haldirams","price":110,"created_at":"2026-01-18T19:05:00Z"}
+{"id":"p0895","name":"Bombay Mixture","description":"Traditional Mumbai spice mix 400g","category":"snacks","brand":"bikaji","price":105,"created_at":"2026-01-18T19:10:00Z"}
+{"id":"p0896","name":"Bikaneri Bhujia","description":"Authentic moth bean snack 400g","category":"snacks","brand":"bikaji","price":120,"created_at":"2026-01-18T19:15:00Z"}
+{"id":"p0897","name":"Cornflakes Mixture","description":"Spicy cornflake snack 200g","category":"snacks","brand":"bikano","price":85,"created_at":"2026-01-18T19:20:00Z"}
+{"id":"p0898","name":"Dry Samosa","description":"Mini spicy stuffed samosas 200g","category":"snacks","brand":"haldirams","price":90,"created_at":"2026-01-18T19:25:00Z"}
+{"id":"p0899","name":"Bakharwadi","description":"Spiced sweet and salty rolls 200g","category":"snacks","brand":"chitale-bandhu","price":115,"created_at":"2026-01-18T19:30:00Z"}
+{"id":"p0900","name":"Chana Jor Garam","description":"Flattened spicy chickpeas 200g","category":"snacks","brand":"haldirams","price":80,"created_at":"2026-01-18T19:35:00Z"}
+{"id":"p0901","name":"Organic Manuka Honey","description":"MGO 100+ medical grade 250g","category":"staples","brand":"comvita","price":2800,"created_at":"2026-01-18T19:40:00Z"}
+{"id":"p0902","name":"Raw Unfiltered Honey","description":"Forest multi-floral honey 500g","category":"staples","brand":"indigenous","price":450,"created_at":"2026-01-18T19:45:00Z"}
+{"id":"p0903","name":"Maple Syrup","description":"Grade A pure Canadian syrup 250ml","category":"staples","brand":"urban-platter","price":899,"created_at":"2026-01-18T19:50:00Z"}
+{"id":"p0904","name":"Agave Nectar","description":"Low GI blue agave syrup 250ml","category":"staples","brand":"urban-platter","price":650,"created_at":"2026-01-18T19:55:00Z"}
+{"id":"p0905","name":"Peanut Butter Creamy","description":"Unsweetened 100% roasted nuts 500g","category":"staples","brand":"pintola","price":350,"created_at":"2026-01-18T20:00:00Z"}
+{"id":"p0906","name":"Almond Butter","description":"Stone ground roasted almond 200g","category":"staples","brand":"the-butternut-co","price":550,"created_at":"2026-01-18T20:05:00Z"}
+{"id":"p0907","name":"Cashew Butter","description":"Creamy unsalted cashew spread 200g","category":"staples","brand":"the-butternut-co","price":499,"created_at":"2026-01-18T20:10:00Z"}
+{"id":"p0908","name":"Hazelnut Cocoa Spread","description":"Rich chocolate nut butter 350g","category":"snacks","brand":"nutella","price":420,"created_at":"2026-01-18T20:15:00Z"}
+{"id":"p0909","name":"Tahini Paste","description":"Roasted sesame seed paste 200g","category":"staples","brand":"urban-platter","price":399,"created_at":"2026-01-18T20:20:00Z"}
+{"id":"p0910","name":"Basil Pesto Sauce","description":"Fresh basil and pine nut 190g","category":"staples","brand":"barilla","price":450,"created_at":"2026-01-18T20:25:00Z"}
+{"id":"p0911","name":"Sun Dried Tomatoes","description":"In herb infused oil 200g","category":"staples","brand":"urban-platter","price":499,"created_at":"2026-01-18T20:30:00Z"}
+{"id":"p0912","name":"Kalamata Olives","description":"Pitted black olives in brine 300g","category":"staples","brand":"figaro","price":350,"created_at":"2026-01-18T20:35:00Z"}
+{"id":"p0913","name":"Green Olives Stuffed","description":"Pimento stuffed olives 300g","category":"staples","brand":"del-monte","price":299,"created_at":"2026-01-18T20:40:00Z"}
+{"id":"p0914","name":"Capers in Vinegar","description":"Non-pareil capers 100g","category":"staples","brand":"urban-platter","price":250,"created_at":"2026-01-18T20:45:00Z"}
+{"id":"p0915","name":"Jalapeno Slices","description":"Pickled green peppers 200g","category":"staples","brand":"neo","price":180,"created_at":"2026-01-18T20:50:00Z"}
+{"id":"p0916","name":"Gherkins Whole","description":"Pickled cucumbers in dill 300g","category":"staples","brand":"neo","price":195,"created_at":"2026-01-18T20:55:00Z"}
+{"id":"p0917","name":"Sriracha Hot Sauce","description":"Authentic flying goose 200ml","category":"staples","brand":"huy-fong","price":550,"created_at":"2026-01-18T21:00:00Z"}
+{"id":"p0918","name":"Truffle Oil","description":"Black truffle infused olive oil 100ml","category":"staples","brand":"urban-platter","price":1200,"created_at":"2026-01-18T21:05:00Z"}
+{"id":"p0919","name":"Balsamic Vinegar","description":"Modena IGP aged vinegar 250ml","category":"staples","brand":"borges","price":450,"created_at":"2026-01-18T21:10:00Z"}
+{"id":"p0920","name":"Pink Peppercorns","description":"Gourmet whole berries 50g","category":"staples","brand":"urban-platter","price":350,"created_at":"2026-01-18T21:15:00Z"}
+{"id":"p0921","name":"Vitamin C Serum","description":"15% skin brightening serum 30ml","category":"personal-care","brand":"minimalist","price":699,"created_at":"2026-01-18T21:20:00Z"}
+{"id":"p0922","name":"Retinol Night Cream","description":"Anti-aging 0.3% retinol 30ml","category":"personal-care","brand":"minimalist","price":599,"created_at":"2026-01-18T21:25:00Z"}
+{"id":"p0923","name":"Sunscreen Aqua Gel","description":"SPF 50 PA++++ no white cast","category":"personal-care","brand":"re-equil","price":450,"created_at":"2026-01-18T21:30:00Z"}
+{"id":"p0924","name":"Under Eye Gel","description":"Reduces dark circles and puffiness","category":"personal-care","brand":"mamaearth","price":399,"created_at":"2026-01-18T21:35:00Z"}
+{"id":"p0925","name":"Hair Growth Actives","description":"Redensyl 3% serum 60ml","category":"personal-care","brand":"minimalist","price":799,"created_at":"2026-01-18T21:40:00Z"}
+{"id":"p0926","name":"Body Yogurt","description":"Lightweight strawberry moisturizer","category":"personal-care","brand":"the-body-shop","price":1100,"created_at":"2026-01-18T21:45:00Z"}
+{"id":"p0927","name":"Charcoal Face Scrub","description":"Exfoliating blackhead remover","category":"personal-care","brand":"mcaffeine","price":349,"created_at":"2026-01-18T21:50:00Z"}
+{"id":"p0928","name":"Coffee Body Polishing Oil","description":"Rosehip and vitamin E oil","category":"personal-care","brand":"mcaffeine","price":445,"created_at":"2026-01-18T21:55:00Z"}
+{"id":"p0929","name":"Bamboo Toothbrush","description":"Biodegradable charcoal bristles","category":"personal-care","brand":"fresho","price":120,"created_at":"2026-01-18T22:00:00Z"}
+{"id":"p0930","name":"Copper Tongue Cleaner","description":"Traditional ayurvedic scraper","category":"personal-care","brand":"fresho","price":150,"created_at":"2026-01-18T22:05:00Z"}
+{"id":"p0931","name":"Yoga Mat","description":"6mm anti-skid TPE foam","category":"household","brand":"vifitkit","price":850,"created_at":"2026-01-18T22:10:00Z"}
+{"id":"p0932","name":"Resistance Bands Set","description":"5 levels of tension bands","category":"household","brand":"vifitkit","price":550,"created_at":"2026-01-18T22:15:00Z"}
+{"id":"p0933","name":"Foam Roller","description":"Muscle recovery massage tool","category":"household","brand":"vifitkit","price":750,"created_at":"2026-01-18T22:20:00Z"}
+{"id":"p0934","name":"Copper Water Bottle","description":"900ml pure seamless copper","category":"household","brand":"milton","price":950,"created_at":"2026-01-18T22:25:00Z"}
+{"id":"p0935","name":"Infuser Water Bottle","description":"Fruit detox bottle 750ml","category":"household","brand":"instacuppa","price":1200,"created_at":"2026-01-18T22:30:00Z"}
+{"id":"p0936","name":"Electric Kettle Glass","description":"1.8L with LED illumination","category":"appliances","brand":"prestige","price":1850,"created_at":"2026-01-18T22:35:00Z"}
+{"id":"p0937","name":"French Press","description":"Stainless steel coffee maker 600ml","category":"appliances","brand":"instacuppa","price":1500,"created_at":"2026-01-18T22:40:00Z"}
+{"id":"p0938","name":"Milk Frother","description":"Handheld battery operated","category":"appliances","brand":"instacuppa","price":450,"created_at":"2026-01-18T22:45:00Z"}
+{"id":"p0939","name":"Vegetable Steamer","description":"Silicone collapsible basket","category":"household","brand":"fresho","price":350,"created_at":"2026-01-18T22:50:00Z"}
+{"id":"p0940","name":"Air Fryer Liners","description":"Perforated parchment paper 50s","category":"household","brand":"fresho","price":299,"created_at":"2026-01-18T22:55:00Z"}
+{"id":"p0941","name":"Scented Candle Rose","description":"Soy wax hand poured jar","category":"household","brand":"ekam","price":350,"created_at":"2026-01-17T08:00:00Z"}
+{"id":"p0942","name":"Essential Oil Diffuser","description":"Ultrasonic cool mist 300ml","category":"household","brand":"pure-source","price":1800,"created_at":"2026-01-17T08:05:00Z"}
+{"id":"p0943","name":"Incense Sticks","description":"Charcoal free sandalwood 40s","category":"household","brand":"phool","price":165,"created_at":"2026-01-17T08:10:00Z"}
+{"id":"p0944","name":"Reed Diffuser","description":"Lemongrass home fragrance 100ml","category":"household","brand":"iris","price":550,"created_at":"2026-01-17T08:15:00Z"}
+{"id":"p0945","name":"Wardrobe Freshener","description":"Hanging sachet jasmine","category":"household","brand":"comfort","price":99,"created_at":"2026-01-17T08:20:00Z"}
+{"id":"p0946","name":"Epsom Salt","description":"Pure magnesium sulfate 1kg","category":"personal-care","brand":"urban-platter","price":350,"created_at":"2026-01-17T08:25:00Z"}
+{"id":"p0947","name":"Bath Bomb Set","description":"Assorted floral fizzy bombs 4s","category":"personal-care","brand":"fresho","price":499,"created_at":"2026-01-17T08:30:00Z"}
+{"id":"p0948","name":"Loofah Sponge","description":"Natural dried gourd scrubber","category":"personal-care","brand":"fresho","price":150,"created_at":"2026-01-17T08:35:00Z"}
+{"id":"p0949","name":"Silk Sleep Mask","description":"100% mulberry silk mask","category":"personal-care","brand":"fresho","price":850,"created_at":"2026-01-17T08:40:00Z"}
+{"id":"p0950","name":"Satin Pillowcase","description":"Hair and skin friendly standard","category":"household","brand":"fresho","price":450,"created_at":"2026-01-17T08:45:00Z"}
+{"id":"p0951","name":"Organic Quinoa Chips","description":"Sea salt flavored 100g","category":"snacks","brand":"true-elements","price":150,"created_at":"2026-01-17T08:50:00Z"}
+{"id":"p0952","name":"Baked Beetroot Chips","description":"Low fat vegetable chips 100g","category":"snacks","brand":"the-healthy-binge","price":120,"created_at":"2026-01-17T08:55:00Z"}
+{"id":"p0953","name":"Roasted Makhana","description":"Peri peri spicy foxnuts 100g","category":"snacks","brand":"farmley","price":180,"created_at":"2026-01-17T09:00:00Z"}
+{"id":"p0954","name":"Rice Cakes","description":"Unsalted whole grain 150g","category":"snacks","brand":"pintola","price":199,"created_at":"2026-01-17T09:05:00Z"}
+{"id":"p0955","name":"Corn Thins","description":"Organic popped corn cakes 150g","category":"snacks","brand":"urban-platter","price":250,"created_at":"2026-01-17T09:10:00Z"}
+{"id":"p0956","name":"Sea Salt Dark Chocolate","description":"80% cocoa single origin","category":"snacks","brand":"amul","price":150,"created_at":"2026-01-17T09:15:00Z"}
+{"id":"p0957","name":"Sugar Free Dark Chocolate","description":"Stevia sweetened 75g","category":"snacks","brand":"zesto","price":250,"created_at":"2026-01-17T09:20:00Z"}
+{"id":"p0958","name":"Roasted Soy Nuts","description":"High protein salty snack 200g","category":"snacks","brand":"fresho","price":99,"created_at":"2026-01-17T09:25:00Z"}
+{"id":"p0959","name":"Dry Fruit Bar","description":"Dates and nuts energy bar","category":"snacks","brand":"yogabar","price":60,"created_at":"2026-01-17T09:30:00Z"}
+{"id":"p0960","name":"Protein Bar","description":"20g whey protein choco-berry","category":"snacks","brand":"ritebite","price":120,"created_at":"2026-01-17T09:35:00Z"}
+{"id":"p0961","name":"Almond Milk Unsweetened","description":"UHT plant based milk 1L","category":"dairy","brand":"so-good","price":299,"created_at":"2026-01-17T09:40:00Z"}
+{"id":"p0962","name":"Oat Milk Barista Edition","description":"Creamy plant milk for coffee 1L","category":"dairy","brand":"oat-mlk","price":350,"created_at":"2026-01-17T09:45:00Z"}
+{"id":"p0963","name":"Soy Milk Vanilla","description":"Fortified vegan milk 1L pouch","category":"dairy","brand":"staeta","price":150,"created_at":"2026-01-17T09:50:00Z"}
+{"id":"p0964","name":"Coconut Milk Beverage","description":"Drinking coconut milk 1L","category":"dairy","brand":"raw-pressery","price":250,"created_at":"2026-01-17T09:55:00Z"}
+{"id":"p0965","name":"Cashew Milk","description":"Cold pressed plant milk 250ml","category":"dairy","brand":"raw-pressery","price":120,"created_at":"2026-01-17T10:00:00Z"}
+{"id":"p0966","name":"Vegan Cheese Slices","description":"Coconut oil based cheddar 200g","category":"dairy","brand":"urban-platter","price":450,"created_at":"2026-01-17T10:05:00Z"}
+{"id":"p0967","name":"Vegan Butter","description":"Cultured plant based spread 200g","category":"dairy","brand":"urban-platter","price":399,"created_at":"2026-01-17T10:10:00Z"}
+{"id":"p0968","name":"Tofu Extra Firm","description":"Organic soya paneer 200g","category":"dairy","brand":"staeta","price":110,"created_at":"2026-01-17T10:15:00Z"}
+{"id":"p0969","name":"Tempeh Cubes","description":"Fermented soy protein 200g","category":"dairy","brand":"hello-tempayy","price":180,"created_at":"2026-01-17T10:20:00Z"}
+{"id":"p0970","name":"Nutritional Yeast","description":"Cheesy vegan seasoning 100g","category":"staples","brand":"urban-platter","price":499,"created_at":"2026-01-17T10:25:00Z"}
+{"id":"p0971","name":"Laundry Scent Booster","description":"In-wash perfume crystals 200g","category":"household","brand":"downy","price":550,"created_at":"2026-01-17T10:30:00Z"}
+{"id":"p0972","name":"Stain Remover Pen","description":"Portable instant stain remover","category":"household","brand":"tide","price":299,"created_at":"2026-01-17T10:35:00Z"}
+{"id":"p0973","name":"Color Catcher Sheets","description":"Prevents color run in wash 20s","category":"household","brand":"dylon","price":450,"created_at":"2026-01-17T10:40:00Z"}
+{"id":"p0974","name":"Washing Machine Cleaner","description":"Removes limescale and odor 250ml","category":"household","brand":"finish","price":350,"created_at":"2026-01-17T10:45:00Z"}
+{"id":"p0975","name":"Dishwasher Salt","description":"Softens water for dishwashers 1kg","category":"household","brand":"finish","price":180,"created_at":"2026-01-17T10:50:00Z"}
+{"id":"p0976","name":"Dishwasher Rinse Aid","description":"Shine and dry liquid 400ml","category":"household","brand":"finish","price":399,"created_at":"2026-01-17T10:55:00Z"}
+{"id":"p0977","name":"Silver Polishing Cloth","description":"Pre-treated jewelry cleaner","category":"household","brand":"town-talk","price":450,"created_at":"2026-01-17T11:00:00Z"}
+{"id":"p0978","name":"Leather Conditioner","description":"Cream for shoes and bags 100ml","category":"household","brand":"cherry-blossom","price":250,"created_at":"2026-01-17T11:05:00Z"}
+{"id":"p0979","name":"Shoe Deodorizer Spray","description":"Removes odor from sneakers","category":"household","brand":"dr-scholls","price":350,"created_at":"2026-01-17T11:10:00Z"}
+{"id":"p0980","name":"Waterproof Spray","description":"Fabric protector for shoes","category":"household","brand":"vetro-power","price":799,"created_at":"2026-01-17T11:15:00Z"}
+{"id":"p0981","name":"Organic Hair Henna","description":"Pure Lawsonia inermis powder 200g","category":"personal-care","brand":"khadi-natural","price":180,"created_at":"2026-01-17T11:20:00Z"}
+{"id":"p0982","name":"Indigo Powder","description":"Natural black hair dye 100g","category":"personal-care","brand":"khadi-natural","price":220,"created_at":"2026-01-17T11:25:00Z"}
+{"id":"p0983","name":"Amla Powder","description":"Vitamin C rich hair mask 100g","category":"personal-care","brand":"himalaya","price":99,"created_at":"2026-01-17T11:30:00Z"}
+{"id":"p0984","name":"Shikakai Powder","description":"Natural hair cleanser 100g","category":"personal-care","brand":"fresho","price":85,"created_at":"2026-01-17T11:35:00Z"}
+{"id":"p0985","name":"Bentonite Clay","description":"Indian healing clay for mask 200g","category":"personal-care","brand":"urban-platter","price":399,"created_at":"2026-01-17T11:40:00Z"}
+{"id":"p0986","name":"Activated Charcoal Powder","description":"Food grade detox powder 100g","category":"personal-care","brand":"urban-platter","price":299,"created_at":"2026-01-17T11:45:00Z"}
+{"id":"p0987","name":"Epson Salt Foot Soak","description":"With peppermint oil 500g","category":"personal-care","brand":"fresho","price":250,"created_at":"2026-01-17T11:50:00Z"}
+{"id":"p0988","name":"Beard Oil","description":"Cedarwood and Vitamin E 30ml","category":"personal-care","brand":"beardo","price":350,"created_at":"2026-01-17T11:55:00Z"}
+{"id":"p0989","name":"Beard Wax","description":"Strong hold styling wax 50g","category":"personal-care","brand":"ustraa","price":299,"created_at":"2026-01-17T12:00:00Z"}
+{"id":"p0990","name":"Aftershave Lotion","description":"Cooling menthol splash 100ml","category":"personal-care","brand":"old-spice","price":250,"created_at":"2026-01-17T12:05:00Z"}
+{"id":"p0991","name":"Organic Cotton Rounds","description":"Biodegradable makeup pads 80s","category":"personal-care","brand":"tulips","price":150,"created_at":"2026-01-17T12:10:00Z"}
+{"id":"p0992","name":"Bamboo Cotton Swabs","description":"Eco-friendly ear buds 100s","category":"personal-care","brand":"fresho","price":80,"created_at":"2026-01-17T12:15:00Z"}
+{"id":"p0993","name":"Menstrual Cup","description":"Medical grade silicone Medium","category":"personal-care","brand":"peesafe","price":499,"created_at":"2026-01-17T12:20:00Z"}
+{"id":"p0994","name":"Panty Liners","description":"Breathable daily liners 30s","category":"personal-care","brand":"whisper","price":165,"created_at":"2026-01-17T12:25:00Z"}
+{"id":"p0995","name":"Sanitary Pads Organic","description":"Cotton top sheet large 10s","category":"personal-care","brand":"carmesi","price":249,"created_at":"2026-01-17T12:30:00Z"}
+{"id":"p0996","name":"Intimate Wash","description":"pH balanced for women 100ml","category":"personal-care","brand":"v-wash","price":180,"created_at":"2026-01-17T12:35:00Z"}
+{"id":"p0997","name":"Hand Sanitizer Spray","description":"70% alcohol lemon scent 100ml","category":"personal-care","brand":"savlon","price":50,"created_at":"2026-01-17T12:40:00Z"}
+{"id":"p0998","name":"Multi-Vitamin Men","description":"Daily health supplement 60s","category":"personal-care","brand":"muscleblaze","price":850,"created_at":"2026-01-17T12:45:00Z"}
+{"id":"p0999","name":"Multi-Vitamin Women","description":"With iron and calcium 60s","category":"personal-care","brand":"revital","price":750,"created_at":"2026-01-17T12:50:00Z"}
+{"id":"p1000","name":"Melatonin Gummies","description":"Sleep aid 5mg strawberry 30s","category":"personal-care","brand":"vicks-zzquil","price":599,"created_at":"2026-01-17T12:55:00Z"}

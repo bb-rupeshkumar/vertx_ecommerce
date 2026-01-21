@@ -20,8 +20,9 @@
     <field name="name" type="text_en" indexed="true" stored="true"/>
     <field name="description" type="text_en" indexed="true" stored="true"/>
 
-    <field name="category" type="string" indexed="true" stored="true"/>
-    <field name="price" type="pfloat" indexed="true" stored="true"/>
+    <field name="brand" type="string" indexed="true" stored="true" docValues="true"/>
+    <field name="category" type="string" indexed="true" stored="true" docValues="true"/>
+    <field name="price" type="pfloat" indexed="true" stored="true" docValues="true"/>
     <field name="created_at" type="pdate" indexed="true" stored="true"/>
 
     <field name="text_all" type="text_en" indexed="true" stored="false" multiValued="true"/>
